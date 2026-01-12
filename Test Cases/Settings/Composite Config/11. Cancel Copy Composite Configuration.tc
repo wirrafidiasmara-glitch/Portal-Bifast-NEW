@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11. Cancel Copy Composite Configuration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76bb53ec-3133-43b2-b4e0-37c4b40725c5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Download File Report Transaction Settlement Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91c13162-6f10-431e-a407-d40a91be6fd8</testCaseGuid>
+</TestCaseEntity>

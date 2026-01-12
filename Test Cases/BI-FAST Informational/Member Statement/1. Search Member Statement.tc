@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Search Member Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7296e76b-6dc1-46ee-bccb-8ef3e8c64cd1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. Cancel Edit Data Template Notification (Email)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17bfd295-ae42-4183-ac68-faefb6c8117a</testCaseGuid>
+</TestCaseEntity>

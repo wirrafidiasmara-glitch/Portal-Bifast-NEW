@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Generate Report</name>
+   <tag></tag>
+   <elementGuidId>860cb455-b8db-4510-8b55-5625227e72c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-button-sm.p-button-edit.merapi-button.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='saveForm']/div[2]/span/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b28410e8-fbbc-4e24-8dca-0687310a13c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-plus</value>
+      <webElementGuid>a3d7957a-8d6d-4fb6-8482-7921dae4f6c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-button-sm p-button-edit merapi-button p-button p-component</value>
+      <webElementGuid>1a9ca400-9e92-48e8-8435-379de1269707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generate Report</value>
+      <webElementGuid>6c0a7064-01d1-4f95-aa02-4bbfbec3f8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;saveForm&quot;)/div[@class=&quot;flex flex-column md:flex-row md:align-items-center btn-filter&quot;]/span[@class=&quot;block mt-2 md:mt-0 p-input-icon-left&quot;]/button[@class=&quot;p-ripple p-button-sm p-button-edit merapi-button p-button p-component&quot;]</value>
+      <webElementGuid>6f427f1a-a268-4303-81ee-aedd49538fb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='saveForm']/div[2]/span/button</value>
+      <webElementGuid>00b71a82-7d31-4671-8648-f1951d9a585f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[2]</value>
+      <webElementGuid>ac0b8dae-f149-4e93-9c94-a8a7c59cca30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Aggregate Transaction'])[1]/preceding::button[1]</value>
+      <webElementGuid>1a8fa337-5e04-4b41-b135-02dd2dfdd6a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>a76cae6d-04ed-45df-85c8-960c82eb1790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Generate Report' or . = 'Generate Report')]</value>
+      <webElementGuid>2dabb820-73b7-464e-bd6d-3fe7572fc8b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

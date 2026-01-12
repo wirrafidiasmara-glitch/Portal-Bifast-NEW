@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown branch</name>
+   <tag></tag>
+   <elementGuidId>e459501b-eb30-452d-9a40-08e27feb5389</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-autocomplete-dropdown.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9d20f7b-ec04-48d1-858b-4e955fff840b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8a10d3f0-7e94-4096-ac76-0e37aaa81f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-autocomplete-dropdown ng-star-inserted</value>
+      <webElementGuid>c5d759bf-5203-44af-8568-6cc6df6c4456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;saveForm&quot;)/div[@class=&quot;grid align-items-center px-0&quot;]/div[@class=&quot;field col-3&quot;]/app-easy-auto-complete[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/p-autocomplete[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[@class=&quot;p-autocomplete p-component p-inputwrapper p-inputwrapper-focus p-autocomplete-open&quot;]/button[@class=&quot;p-ripple p-autocomplete-dropdown ng-star-inserted&quot;]</value>
+      <webElementGuid>2c0f0961-de47-4983-9645-b9a2112f1daf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>9b80cffa-8ca6-4821-8c53-d758329a2ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='saveForm']/div/div[2]/app-easy-auto-complete/p-autocomplete/div/button</value>
+      <webElementGuid>b72f8743-48af-4231-855f-f580f08c546d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[2]/following::button[1]</value>
+      <webElementGuid>c84f1511-adbe-45f1-be15-789dfe91c165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Data'])[1]/following::button[2]</value>
+      <webElementGuid>c50cc934-adfe-4852-913d-f46cad050239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proxy Alias'])[3]/preceding::button[1]</value>
+      <webElementGuid>d1e8f881-1323-42b6-99d9-fb466feb1c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proxy Status'])[1]/preceding::button[1]</value>
+      <webElementGuid>32da709a-0d3f-45cb-81bb-c40482e458fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>b6ddc608-ab55-4bce-820b-22031d2988d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>d0c2b892-b4d8-4932-b19a-d24622491521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

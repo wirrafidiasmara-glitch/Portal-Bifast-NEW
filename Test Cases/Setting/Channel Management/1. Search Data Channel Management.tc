@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Search Data Channel Management</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>126a1338-a21f-46bc-a5e7-bcfcac8843c8</testCaseGuid>
+</TestCaseEntity>

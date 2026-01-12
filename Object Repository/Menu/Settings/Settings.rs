@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Settings</name>
+   <tag></tag>
+   <elementGuidId>2b7d4a97-812e-4e4d-8ab5-afa955068518</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_KOMI BI-FAST Portal/Settings.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_KOMI BI-FAST Portal/Settings.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pn_id_8_3_header']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Settings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0a57f54-1f68-4e91-aeb4-8060e3075bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center cursor-pointer text-surface-700 dark:text-surface-0 px-3 py-2 hover:bg-gray-300 transition-all duration-300</value>
+      <webElementGuid>724283aa-b278-4421-affa-6a0039c658a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>29fee6cf-bd6c-45c1-bcec-c82dd00aa39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_8_3_header&quot;)/div[@class=&quot;p-panelmenu-header-content&quot;]/span[@class=&quot;flex items-center cursor-pointer text-surface-700 dark:text-surface-0 px-3 py-2 hover:bg-gray-300 transition-all duration-300&quot;]</value>
+      <webElementGuid>acd8a338-28ed-4ea2-ada1-c0eea9c9f1eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_8_3_header']/div/span</value>
+      <webElementGuid>4e3933e7-1375-4e6a-8d73-8101d6087ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI-FAST Informational'])[2]/following::span[1]</value>
+      <webElementGuid>003b552d-db9e-402d-b1f3-58509a6bc11a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[1]/following::span[4]</value>
+      <webElementGuid>d24063a5-950c-400d-b7d2-bc05ff39348b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Composite Config'])[1]/preceding::span[4]</value>
+      <webElementGuid>b259e202-97da-4b3f-922e-4176e40b88cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/span</value>
+      <webElementGuid>0090db32-87e2-4787-82f7-af82a318b730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>07518f1a-252d-479c-9f2b-11ff8683c6a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

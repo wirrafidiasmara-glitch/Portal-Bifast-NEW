@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Cancel Add Account Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e488cb1-6ab7-4cf1-8ecb-86902cca997e</testCaseGuid>
+</TestCaseEntity>

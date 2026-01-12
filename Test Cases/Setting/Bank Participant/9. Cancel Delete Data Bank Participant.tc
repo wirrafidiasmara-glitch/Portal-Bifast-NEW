@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Cancel Delete Data Bank Participant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91cbe6a7-86fd-4026-8365-74d5a5f01d4e</testCaseGuid>
+</TestCaseEntity>

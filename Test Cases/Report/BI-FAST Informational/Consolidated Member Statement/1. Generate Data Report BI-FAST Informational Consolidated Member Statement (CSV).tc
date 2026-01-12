@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Generate Data Report BI-FAST Informational Consolidated Member Statement (CSV)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1a3ab80-da58-4e7a-b983-f4551d373b94</testCaseGuid>
+</TestCaseEntity>

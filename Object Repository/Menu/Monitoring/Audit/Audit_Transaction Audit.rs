@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Audit_Transaction Audit</name>
+   <tag></tag>
+   <elementGuidId>041321e9-c694-4759-b4a1-54ea22c22d15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pn_id_8_4_3_2']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/monitoring/audit/transaction-audit' and (text() = 'Transaction Audit' or . = 'Transaction Audit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Transaction Audit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>55f08db3-64c2-4894-b637-4510d875fb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active-menu</value>
+      <webElementGuid>622e1b5d-c7b7-4be6-a140-ea1d10f3eb56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300</value>
+      <webElementGuid>be280030-532a-42fd-81d0-a7a9e7105cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/monitoring/audit/transaction-audit</value>
+      <webElementGuid>414d0b7b-56b2-48c5-8d88-8eac36b5ff39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction Audit</value>
+      <webElementGuid>418c08b8-73bd-4e05-acc2-05b7bbb4f513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_8_4_3_2&quot;)/div[@class=&quot;p-panelmenu-item-content ng-tns-c2533221881-70&quot;]/a[@class=&quot;flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300&quot;]</value>
+      <webElementGuid>82e3c503-658f-4ec3-8a3c-2c6c7edde59f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pn_id_8_4_3_2']/div/a</value>
+      <webElementGuid>72996a17-fd74-41c0-b6e4-087ca119d777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Trail'])[1]/following::a[1]</value>
+      <webElementGuid>b247cd73-6329-4336-98bc-2f2a8433c246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Log'])[1]/following::a[2]</value>
+      <webElementGuid>68c9f657-4c9a-4808-9de8-fc98e31fe256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[2]/preceding::a[1]</value>
+      <webElementGuid>d132e25e-2506-4060-82cd-ab51b8e55c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/monitoring/audit/transaction-audit')]</value>
+      <webElementGuid>a30a7c35-a16c-4e48-a5fb-0712a014168b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p-panelmenu-sub/ul/li[3]/div/a</value>
+      <webElementGuid>acafb5ec-9c00-42d1-934d-96c3a29aa834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/monitoring/audit/transaction-audit' and (text() = 'Transaction Audit' or . = 'Transaction Audit')]</value>
+      <webElementGuid>89785357-a80d-401a-a195-5976ffece4bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

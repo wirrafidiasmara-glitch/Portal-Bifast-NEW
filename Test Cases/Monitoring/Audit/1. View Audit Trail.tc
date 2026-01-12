@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. View Audit Trail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>195a2b52-6dc7-4cb9-9bf8-1f2b1bd49d27</testCaseGuid>
+</TestCaseEntity>

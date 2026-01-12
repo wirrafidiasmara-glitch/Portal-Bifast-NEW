@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Generate Report Transaction Settlement Confirmation (CSV)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c505113-7c6e-4ba3-8078-3b55674665b8</testCaseGuid>
+</TestCaseEntity>

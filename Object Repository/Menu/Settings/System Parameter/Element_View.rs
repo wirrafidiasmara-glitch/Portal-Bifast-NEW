@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_View</name>
+   <tag></tag>
+   <elementGuidId>6fd87276-9482-48c5-8016-8f3a70d5313b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2196985156-73.p-dialog-content.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Parameter Group : TESTINGParameter Key : 23223Parameter Description : sedang tes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3229c5fd-50a5-455a-b60a-ff703aaaadbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2196985156-73 p-dialog-content ng-star-inserted</value>
+      <webElementGuid>f7cad88e-fbba-4fa5-b38a-fac0a3969327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>05b88695-1e72-451d-a7e4-8e302cde404f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Parameter Group :  TESTINGParameter Key :  23223Parameter Description :  sedang testParameter Value :  test1Created Date : 19/12/2025 09:53Created By :  User Bifast 09Updated Date : 19/12/2025 16:53Updated By :  User Bifast 09</value>
+      <webElementGuid>31ace22c-3f8e-4ba4-970c-6d1f458dded4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-system-parameter[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;ng-tns-c2196985156-73 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-73 p-dialog-mask ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-73 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-73 p-dialog-content ng-star-inserted&quot;]</value>
+      <webElementGuid>3721aacc-052f-4697-a164-8ec967ed988b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      <webElementGuid>f4825a11-cafd-46ce-8102-571eff6454c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dialog/div/div/div[3]</value>
+      <webElementGuid>efdca80b-c11c-43cf-b09a-54b3f08ac79e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Parameter Group :  TESTINGParameter Key :  23223Parameter Description :  sedang testParameter Value :  test1Created Date : 19/12/2025 09:53Created By :  User Bifast 09Updated Date : 19/12/2025 16:53Updated By :  User Bifast 09' or . = 'Parameter Group :  TESTINGParameter Key :  23223Parameter Description :  sedang testParameter Value :  test1Created Date : 19/12/2025 09:53Created By :  User Bifast 09Updated Date : 19/12/2025 16:53Updated By :  User Bifast 09')]</value>
+      <webElementGuid>ea49e634-1252-4b95-bbc6-7a19478fec51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

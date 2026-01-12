@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Transaction Search</name>
+   <tag></tag>
+   <elementGuidId>bef00356-6dc4-480b-81a5-4a61a8199057</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pn_id_8_1_4']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Transaction Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5143fcb8-1a51-474c-92d2-1b8df7b19cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active-menu</value>
+      <webElementGuid>c65ae84e-f1da-471e-9519-43fe5a02b2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300</value>
+      <webElementGuid>e4db7bf3-9e86-40fe-9895-1693dddf1936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bi-informational/transaction-search</value>
+      <webElementGuid>b2177cc2-80d2-4607-ae53-dbb8f1452d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction Search</value>
+      <webElementGuid>5c3d2205-0a91-4ce6-b326-6e7b20f6cc3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_8_1_4&quot;)/div[@class=&quot;p-panelmenu-item-content ng-tns-c2533221881-6&quot;]/a[@class=&quot;flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300&quot;]</value>
+      <webElementGuid>ab743ae4-87e0-4235-be61-c2e017d11544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pn_id_8_1_4']/div/a</value>
+      <webElementGuid>0d39f46f-35fe-4230-ad04-27f4ac189a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Statement'])[1]/following::a[1]</value>
+      <webElementGuid>bef6d7e5-5b05-45d9-9330-b253d6d80e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consolidated Member Statement'])[1]/following::a[2]</value>
+      <webElementGuid>1d0be447-a20f-4833-bb0c-ea7719f3efa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Transfer'])[1]/preceding::a[1]</value>
+      <webElementGuid>f93b9c43-f868-4875-ba54-f6e4458bb0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/bi-informational/transaction-search')]</value>
+      <webElementGuid>a2b58946-4e74-45c5-8d3a-ede1cbebad0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/a</value>
+      <webElementGuid>6aa26438-3fb4-4cc9-9617-daf77adc9374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/bi-informational/transaction-search' and (text() = 'Transaction Search' or . = 'Transaction Search')]</value>
+      <webElementGuid>e2e82c14-734f-4480-a94f-8136791a0310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

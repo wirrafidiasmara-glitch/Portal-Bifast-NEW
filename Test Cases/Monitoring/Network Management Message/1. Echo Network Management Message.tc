@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Echo Network Management Message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>651442a8-be8e-448b-b7ec-47c8a1cc555f</testCaseGuid>
+</TestCaseEntity>

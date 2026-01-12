@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_View_Proxy</name>
+   <tag></tag>
+   <elementGuidId>05377f93-d508-447f-818f-75ad52ab6604</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2196985156-129.p-dialog-content.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ID: 9db64ef8-9ecc-4055-abb2-cdc42af076e3Bank Identifier Code: BMRIIDJA - PT Bank&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73a1c407-c247-458e-9fd5-b8a5bd9f4a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2196985156-129 p-dialog-content ng-star-inserted</value>
+      <webElementGuid>a4300a4e-e8b5-40e3-b86d-0d957da56d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>791d2f84-1e17-4759-978d-82cc8abb1352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ID: 9db64ef8-9ecc-4055-abb2-cdc42af076e3Bank Identifier Code: BMRIIDJA - PT Bank Inti Indonesia Tbk.Proxy Alias: 08811223345Proxy Type: 01 - Mobile PhoneProxy Operation: NEWRIssued Date: 2025-12-22T00:00:00.000ZIssued By: TESTING AUTOMATIONStatus Code: 0000Status Message: Success/ Transaction AcceptedKOMI Unique ID: 0986d5f2-083a-4acc-aeff-d0db5203a226Proxy Information: Mobile PhoneCustomer Currency: IDRCustomer Account Type: CACCAccount Number: 0000000000006Proxy Registration ID: 0006810214Created Date: 22/12/2025 23:01Created By: SYSTEMUpdated Date: 22/12/2025 23:01Updated By: SYSTEMBranch: 0001 - KC UTAMA BANDUNG</value>
+      <webElementGuid>637ef3aa-aabc-4fb9-8bd8-1c7fdd581751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-proxy-history[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;ng-tns-c2196985156-129 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-129 p-dialog-mask ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-129 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-129 p-dialog-content ng-star-inserted&quot;]</value>
+      <webElementGuid>900f9195-68b1-4349-bf21-c572123156d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      <webElementGuid>cd3b4568-5593-480a-ab1b-1e42dd63e314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]</value>
+      <webElementGuid>1dc6f383-75c1-47b5-91e9-7da1168f01ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ID: 9db64ef8-9ecc-4055-abb2-cdc42af076e3Bank Identifier Code: BMRIIDJA - PT Bank Inti Indonesia Tbk.Proxy Alias: 08811223345Proxy Type: 01 - Mobile PhoneProxy Operation: NEWRIssued Date: 2025-12-22T00:00:00.000ZIssued By: TESTING AUTOMATIONStatus Code: 0000Status Message: Success/ Transaction AcceptedKOMI Unique ID: 0986d5f2-083a-4acc-aeff-d0db5203a226Proxy Information: Mobile PhoneCustomer Currency: IDRCustomer Account Type: CACCAccount Number: 0000000000006Proxy Registration ID: 0006810214Created Date: 22/12/2025 23:01Created By: SYSTEMUpdated Date: 22/12/2025 23:01Updated By: SYSTEMBranch: 0001 - KC UTAMA BANDUNG' or . = 'ID: 9db64ef8-9ecc-4055-abb2-cdc42af076e3Bank Identifier Code: BMRIIDJA - PT Bank Inti Indonesia Tbk.Proxy Alias: 08811223345Proxy Type: 01 - Mobile PhoneProxy Operation: NEWRIssued Date: 2025-12-22T00:00:00.000ZIssued By: TESTING AUTOMATIONStatus Code: 0000Status Message: Success/ Transaction AcceptedKOMI Unique ID: 0986d5f2-083a-4acc-aeff-d0db5203a226Proxy Information: Mobile PhoneCustomer Currency: IDRCustomer Account Type: CACCAccount Number: 0000000000006Proxy Registration ID: 0006810214Created Date: 22/12/2025 23:01Created By: SYSTEMUpdated Date: 22/12/2025 23:01Updated By: SYSTEMBranch: 0001 - KC UTAMA BANDUNG')]</value>
+      <webElementGuid>43e55a85-0489-4666-ad0f-759e78b721cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

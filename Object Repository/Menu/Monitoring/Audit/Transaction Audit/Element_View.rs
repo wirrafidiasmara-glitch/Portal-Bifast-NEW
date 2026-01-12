@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_View</name>
+   <tag></tag>
+   <elementGuidId>20a7946b-0fb8-4475-be7c-93d511d88670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2196985156-154.p-dialog-content.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Trace Transaction'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Trace Transaction&quot;i >> div >> internal:has-text=&quot;Process ProcessDateDuration Response Code System MessageStatus PayloadCHANNEL05/&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdc7baf0-4a2b-448c-b275-650fbfd39358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2196985156-154 p-dialog-content ng-star-inserted</value>
+      <webElementGuid>3597e537-45cb-4986-932a-cb709b81980d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>d140cdb1-bde0-4d12-97e8-ebf87387f40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Process ProcessDateDuration  Response Code System MessageStatus PayloadCHANNEL05/01/2026 13:555027 ms0999Undefined Response Mapping (KOMI~0999) ViewBIFAST-GATEWAY (KomiBifastASBifast.steps:accountEnquiry)05/01/2026 13:5610 ms404- ViewCB-API (accountBalance)05/01/2026 13:5636 msSApproved or completed successfully ViewCB-API (customerInformation)05/01/2026 13:5612 msSApproved or completed successfully View</value>
+      <webElementGuid>5b94ea0f-7df1-4bc6-ad73-e1cec859b3ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-transaction-audit[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;p-fluid ng-tns-c2196985156-154 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-154 p-dialog-mask p-overlay-mask p-overlay-mask-enter ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-154 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-154 p-dialog-content ng-star-inserted&quot;]</value>
+      <webElementGuid>6bc70ec1-f0a9-4b2c-a4b4-398959720144</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trace Transaction'])[1]/following::div[2]</value>
+      <webElementGuid>3a64e49c-3d6e-4baa-bf92-5e20b7fe0cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]</value>
+      <webElementGuid>ba9daf12-2b6e-43d6-8461-011d7ea96223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Process ProcessDateDuration  Response Code System MessageStatus PayloadCHANNEL05/01/2026 13:555027 ms0999Undefined Response Mapping (KOMI~0999) ViewBIFAST-GATEWAY (KomiBifastASBifast.steps:accountEnquiry)05/01/2026 13:5610 ms404- ViewCB-API (accountBalance)05/01/2026 13:5636 msSApproved or completed successfully ViewCB-API (customerInformation)05/01/2026 13:5612 msSApproved or completed successfully View' or . = 'Process ProcessDateDuration  Response Code System MessageStatus PayloadCHANNEL05/01/2026 13:555027 ms0999Undefined Response Mapping (KOMI~0999) ViewBIFAST-GATEWAY (KomiBifastASBifast.steps:accountEnquiry)05/01/2026 13:5610 ms404- ViewCB-API (accountBalance)05/01/2026 13:5636 msSApproved or completed successfully ViewCB-API (customerInformation)05/01/2026 13:5612 msSApproved or completed successfully View')]</value>
+      <webElementGuid>c97e051c-9aac-4772-b322-162148d9c0cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Download File Report BI-FAST Informational Transaction Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e53912b-a3a8-4efc-b22b-a9b1bb9e9dfb</testCaseGuid>
+</TestCaseEntity>

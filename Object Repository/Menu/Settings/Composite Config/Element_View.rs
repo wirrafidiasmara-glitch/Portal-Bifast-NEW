@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_View</name>
+   <tag></tag>
+   <elementGuidId>64f12bed-e84d-46c4-8316-b41a96887918</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2196985156-145.p-dialog-content.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ID : 42D53F30D0AB665DE065025056B777E0Composite Code : RECEIVING-RFP-ACCEPTANCECo&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>248cd4ca-cbc4-4672-9962-0117122cfe7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2196985156-145 p-dialog-content ng-star-inserted</value>
+      <webElementGuid>f07d4a0c-c39e-4e6b-ad0f-c02fa65c5203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>bb92d8df-9109-4e94-bdeb-fead2a1d3eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ID :  42D53F30D0AB665DE065025056B777E0Composite Code :  RECEIVING-RFP-ACCEPTANCEComposite Application :  BIFASTComposite Type :  JSONDescription :  Receiving Request For Payment Acceptance (Credit Transfer) - account numberNormalGraphStepsNo ID  Step Name  Step Service  Step Sequence  Action On Exception  Status  Backend  Compensation Code  Execution 142D6BA8C7AD77BDDE065025056B777E0 Validate RFP KomiBifastReceivingRFP.steps.acceptance:validateRFP 1 abort Active  SYNC 242D53F30D0AC665DE065025056B777E0 Get Account Balance KomiBifastASCoreBankAPI.step.receiving:getAccountBalance 2 abort ActiveCB-API  SYNC 342D53F30D0AD665DE065025056B777E0 Validate Account KomiBifastReceivingRFP.steps.acceptance:validateAccount 3 abort Active  SYNC 442D53F30D0AE665DE065025056B777E0 Check Fraud KomiBifastReceivingRFP.steps.acceptance:checkFraud 4 abort Active  SYNC 542D53F30D0AF665DE065025056B777E0 Validate Inbound KomiBifastReceivingRFP.steps.acceptance:validationCTInbound 5 abort Active  SYNC 642D53F30D0B0665DE065025056B777E0 Validate BIC KomiBifastReceivingRFP.steps.acceptance:validationBic 6 abort Active  SYNC 742D53F30D0B1665DE065025056B777E0 Inter Transfer Account KomiBifastASCoreBankAPI.step.receiving:sendInterTransferAccount 7 ignore ActiveCB-API  SYNC 842E54DC9CD411E9CE065025056B777E0 Processing Acceptance KomiBifastReceivingRFP.steps.acceptance:processingAcceptance 8 abort Active  SYNC 942D53F30D0B2665DE065025056B777E0 Call Wait Settlement Confirmation In KomiBifastReceivingRFP.steps.acceptance:callWaitSettlementConfirmation 9 abort Active  SYNC Showing 1 to 9 of 9 entries 1 100</value>
+      <webElementGuid>606e323e-5145-4861-be73-9ab25e9e275f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-composite-config[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;ng-tns-c2196985156-145 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-145 p-dialog-mask ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-145 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-145 p-dialog-content ng-star-inserted&quot;]</value>
+      <webElementGuid>b58e0fb1-d853-438d-b206-e04c2cc1434e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      <webElementGuid>101a3028-8163-47fd-929b-094321ebd2fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dialog[2]/div/div/div[3]</value>
+      <webElementGuid>44e09cd9-c22e-4e74-9886-311ce758ef7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ID :  42D53F30D0AB665DE065025056B777E0Composite Code :  RECEIVING-RFP-ACCEPTANCEComposite Application :  BIFASTComposite Type :  JSONDescription :  Receiving Request For Payment Acceptance (Credit Transfer) - account numberNormalGraphStepsNo ID  Step Name  Step Service  Step Sequence  Action On Exception  Status  Backend  Compensation Code  Execution 142D6BA8C7AD77BDDE065025056B777E0 Validate RFP KomiBifastReceivingRFP.steps.acceptance:validateRFP 1 abort Active  SYNC 242D53F30D0AC665DE065025056B777E0 Get Account Balance KomiBifastASCoreBankAPI.step.receiving:getAccountBalance 2 abort ActiveCB-API  SYNC 342D53F30D0AD665DE065025056B777E0 Validate Account KomiBifastReceivingRFP.steps.acceptance:validateAccount 3 abort Active  SYNC 442D53F30D0AE665DE065025056B777E0 Check Fraud KomiBifastReceivingRFP.steps.acceptance:checkFraud 4 abort Active  SYNC 542D53F30D0AF665DE065025056B777E0 Validate Inbound KomiBifastReceivingRFP.steps.acceptance:validationCTInbound 5 abort Active  SYNC 642D53F30D0B0665DE065025056B777E0 Validate BIC KomiBifastReceivingRFP.steps.acceptance:validationBic 6 abort Active  SYNC 742D53F30D0B1665DE065025056B777E0 Inter Transfer Account KomiBifastASCoreBankAPI.step.receiving:sendInterTransferAccount 7 ignore ActiveCB-API  SYNC 842E54DC9CD411E9CE065025056B777E0 Processing Acceptance KomiBifastReceivingRFP.steps.acceptance:processingAcceptance 8 abort Active  SYNC 942D53F30D0B2665DE065025056B777E0 Call Wait Settlement Confirmation In KomiBifastReceivingRFP.steps.acceptance:callWaitSettlementConfirmation 9 abort Active  SYNC Showing 1 to 9 of 9 entries 1 100' or . = 'ID :  42D53F30D0AB665DE065025056B777E0Composite Code :  RECEIVING-RFP-ACCEPTANCEComposite Application :  BIFASTComposite Type :  JSONDescription :  Receiving Request For Payment Acceptance (Credit Transfer) - account numberNormalGraphStepsNo ID  Step Name  Step Service  Step Sequence  Action On Exception  Status  Backend  Compensation Code  Execution 142D6BA8C7AD77BDDE065025056B777E0 Validate RFP KomiBifastReceivingRFP.steps.acceptance:validateRFP 1 abort Active  SYNC 242D53F30D0AC665DE065025056B777E0 Get Account Balance KomiBifastASCoreBankAPI.step.receiving:getAccountBalance 2 abort ActiveCB-API  SYNC 342D53F30D0AD665DE065025056B777E0 Validate Account KomiBifastReceivingRFP.steps.acceptance:validateAccount 3 abort Active  SYNC 442D53F30D0AE665DE065025056B777E0 Check Fraud KomiBifastReceivingRFP.steps.acceptance:checkFraud 4 abort Active  SYNC 542D53F30D0AF665DE065025056B777E0 Validate Inbound KomiBifastReceivingRFP.steps.acceptance:validationCTInbound 5 abort Active  SYNC 642D53F30D0B0665DE065025056B777E0 Validate BIC KomiBifastReceivingRFP.steps.acceptance:validationBic 6 abort Active  SYNC 742D53F30D0B1665DE065025056B777E0 Inter Transfer Account KomiBifastASCoreBankAPI.step.receiving:sendInterTransferAccount 7 ignore ActiveCB-API  SYNC 842E54DC9CD411E9CE065025056B777E0 Processing Acceptance KomiBifastReceivingRFP.steps.acceptance:processingAcceptance 8 abort Active  SYNC 942D53F30D0B2665DE065025056B777E0 Call Wait Settlement Confirmation In KomiBifastReceivingRFP.steps.acceptance:callWaitSettlementConfirmation 9 abort Active  SYNC Showing 1 to 9 of 9 entries 1 100')]</value>
+      <webElementGuid>5b26e8ed-bf30-4a32-a56a-bd08784c5008</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

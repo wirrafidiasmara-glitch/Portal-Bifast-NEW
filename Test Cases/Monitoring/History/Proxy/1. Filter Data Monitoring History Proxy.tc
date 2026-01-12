@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Filter Data Monitoring History Proxy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7bfd847-eff2-4b0b-b0be-a9706eeec25c</testCaseGuid>
+</TestCaseEntity>

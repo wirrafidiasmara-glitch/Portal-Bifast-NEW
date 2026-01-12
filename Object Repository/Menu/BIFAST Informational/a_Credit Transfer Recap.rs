@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Credit Transfer Recap</name>
+   <tag></tag>
+   <elementGuidId>5311abd8-b92d-4aeb-939a-952f51238e16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pn_id_8_1_6']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Credit Transfer Recap&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75691325-dc5c-4618-a493-e5dc2bc20b92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active-menu</value>
+      <webElementGuid>5e61033a-e0f6-4c74-858b-3de76e19eac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300</value>
+      <webElementGuid>2833ecc6-98da-438c-8ce1-a6edb1577a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bi-informational/credit-transfer-recap</value>
+      <webElementGuid>d4a372c8-3230-445f-b472-c481bee70da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Transfer Recap</value>
+      <webElementGuid>82a40901-0013-4f07-98b2-6bbc3913a705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_8_1_6&quot;)/div[@class=&quot;p-panelmenu-item-content ng-tns-c2533221881-6&quot;]/a[@class=&quot;flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300&quot;]</value>
+      <webElementGuid>3ec9ce54-ac71-481a-8ea8-0c148d86a116</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pn_id_8_1_6']/div/a</value>
+      <webElementGuid>1fff772e-caae-4de8-99e4-7e9029b38b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Transfer'])[1]/following::a[1]</value>
+      <webElementGuid>68104253-ac87-4b56-b8fe-236cf1603749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Search'])[1]/following::a[2]</value>
+      <webElementGuid>4fcea565-2499-41fc-81f4-d9c370455d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>21278016-5d45-4172-9e13-71cf195c5240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/bi-informational/credit-transfer-recap')]</value>
+      <webElementGuid>0cf30a91-e05a-4438-86ce-8857cfb22871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/a</value>
+      <webElementGuid>ff0c0610-2e86-4a53-9e04-4738db33a18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/bi-informational/credit-transfer-recap' and (text() = 'Credit Transfer Recap' or . = 'Credit Transfer Recap')]</value>
+      <webElementGuid>2ae5df94-1f01-473e-9bfd-1b2189cea2fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

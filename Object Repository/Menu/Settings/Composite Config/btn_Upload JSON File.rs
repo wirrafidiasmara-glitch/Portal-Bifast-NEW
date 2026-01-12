@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Upload JSON File</name>
+   <tag></tag>
+   <elementGuidId>2e43eb9a-30a5-487d-a579-43e5a6672819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-sidebarlayoutrefactor/div/div[2]/app-composite-config-import/div/p-panel/div/div[2]/div/p-card/div/div/div/p-fileupload/div/p-button/button/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Upload JSON File' or . = 'Upload JSON File')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-button.p-component.p-fileupload-choose-button.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Upload JSON File&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e27d0162-abf9-4feb-b5bd-cdc42210a7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-button p-component p-fileupload-choose-button undefined</value>
+      <webElementGuid>28be56ef-c4c6-4842-9c61-3cbf2ec7f3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0534fd2c-161d-4382-9a8a-9007ae47e50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>46105062-8d30-44cd-805c-3f4bc186e8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>a2a3af80-8ced-49f2-96c3-e92aef28cdb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload JSON File</value>
+      <webElementGuid>984e8548-2570-4953-9e71-ae324e78fa3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_167_content&quot;)/div[@class=&quot;p-panel-content ng-tns-c3953506556-73&quot;]/p-card[@class=&quot;ng-tns-c3953506556-73&quot;]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/p-fileupload[1]/div[@class=&quot;p-fileupload p-fileupload-basic p-component ng-star-inserted&quot;]/p-button[1]/button[@class=&quot;p-ripple p-button p-component p-fileupload-choose-button undefined&quot;]</value>
+      <webElementGuid>6da726c6-28f4-4483-9019-5cffd2dc4199</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>0ce7d45c-aaf2-4bc2-a9fc-c88c890d2ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_167_content']/div/p-card/div/div/div/p-fileupload/div/p-button/button</value>
+      <webElementGuid>a37690f3-5b33-4f65-8d72-4ffeea76db0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Composite Config'])[1]/following::button[2]</value>
+      <webElementGuid>c2d72140-2332-4c1a-acfa-703482c9d75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::button[5]</value>
+      <webElementGuid>e7bb39a6-c59e-4d67-9c9f-2c67946a808b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No file chosen'])[1]/preceding::button[1]</value>
+      <webElementGuid>03725319-fd9f-4e83-b3e5-27254b1d328a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-fileupload/div/p-button/button</value>
+      <webElementGuid>3835ff84-8b85-43a9-bf6b-c5f54d359a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Upload JSON File' or . = 'Upload JSON File')]</value>
+      <webElementGuid>79446c96-85d1-446a-960f-3a358687fb86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

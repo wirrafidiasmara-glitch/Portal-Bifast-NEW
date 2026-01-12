@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>start tgl 1</name>
+   <tag></tag>
+   <elementGuidId>bdf1a0fe-ad37-4efa-b8d6-9dda0834d370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pn_id_163_panel']/div/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f619b5a3-8e30-4276-b901-6d91853e2b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2490469397-18 p-datepicker-day-cell ng-star-inserted</value>
+      <webElementGuid>f98fb9ed-271e-49b7-906e-827412ec5b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>0bac9dff-6ac4-440d-88fd-de4324fde9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 1 </value>
+      <webElementGuid>58b169f4-1f95-43c9-a333-b5d578079ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_163_panel&quot;)/div[@class=&quot;p-datepicker-calendar-container ng-tns-c2490469397-18 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar ng-tns-c2490469397-18 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-day-view ng-tns-c2490469397-18 ng-star-inserted&quot;]/tbody[@class=&quot;ng-tns-c2490469397-18&quot;]/tr[@class=&quot;ng-tns-c2490469397-18 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c2490469397-18 p-datepicker-day-cell ng-star-inserted&quot;]</value>
+      <webElementGuid>21feb11a-bc2d-4324-bfbc-1e9c61dd7c49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_163_panel']/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>2b3917ef-1f9b-4354-be81-696f3e297ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[2]</value>
+      <webElementGuid>7d6a16a1-950c-4791-9610-59436b37981d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[2]</value>
+      <webElementGuid>2c44e07b-8657-4cc2-89fa-07e35cb93c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::td[34]</value>
+      <webElementGuid>31645bc0-27e6-4bf1-8f9a-3ff5cfdb7b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>bc6c64bd-fc4a-479b-bfe5-f5ea86133453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '1 1 ' or . = '1 1 ')]</value>
+      <webElementGuid>95e01400-9563-4c7e-a277-a5281209dd2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

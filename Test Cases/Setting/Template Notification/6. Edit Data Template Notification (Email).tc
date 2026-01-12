@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Edit Data Template Notification (Email)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c16fb6cb-de1f-41d4-8f32-2665b7e778f1</testCaseGuid>
+</TestCaseEntity>

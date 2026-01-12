@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Account Search</name>
+   <tag></tag>
+   <elementGuidId>8ae36cfc-aab0-4bfb-8f01-7357b87675ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pn_id_8_1_0']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Account Search&quot;i >> internal:role=link[name=&quot;Account Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>996794c3-e3ce-4503-8cb4-082cd8f473d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active-menu</value>
+      <webElementGuid>d2ac21d2-4ac2-4519-ae3d-4e87ef9bc7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300 active-menu</value>
+      <webElementGuid>dfc66b1e-5744-4feb-8d4a-68d678481fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bi-informational/account-search</value>
+      <webElementGuid>fbfaa67d-13ce-4211-b5f8-8a64eca06fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Search</value>
+      <webElementGuid>afce71ed-ae3f-4377-b819-a8c662071d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_8_1_0&quot;)/div[@class=&quot;p-panelmenu-item-content ng-tns-c2533221881-6&quot;]/a[@class=&quot;flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300 active-menu&quot;]</value>
+      <webElementGuid>428e1e75-83ec-40ee-9421-a15c263f3f57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pn_id_8_1_0']/div/a</value>
+      <webElementGuid>ef050baf-2618-49ea-aaf4-2c6b2a6ca286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI-FAST Informational'])[1]/following::a[1]</value>
+      <webElementGuid>5481660d-28bd-4dc6-ab7a-696301d2ad54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Blacklist'])[1]/following::a[1]</value>
+      <webElementGuid>582e8a8e-523d-44e6-b038-0adbd0e7534e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggregate Transaction'])[1]/preceding::a[1]</value>
+      <webElementGuid>b9bb74d5-09a0-49c8-9944-a0f22fbc22ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/bi-informational/account-search')]</value>
+      <webElementGuid>e7fbf0b9-97d2-4f82-acb3-c955ceb7bdd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/p-panelmenulist/p-panelmenu-sub/ul/li/div/a</value>
+      <webElementGuid>c4ac58e7-072c-4218-a834-9112b6775736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/bi-informational/account-search' and (text() = 'Account Search' or . = 'Account Search')]</value>
+      <webElementGuid>5a65f1cc-90e3-409d-bd89-c653b2c65fcd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

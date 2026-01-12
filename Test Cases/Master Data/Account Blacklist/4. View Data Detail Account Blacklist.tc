@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. View Data Detail Account Blacklist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a081ceae-af06-4962-af58-16b1256ab3d2</testCaseGuid>
+</TestCaseEntity>

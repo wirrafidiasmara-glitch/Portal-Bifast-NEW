@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button cancel yes add</name>
+   <tag></tag>
+   <elementGuidId>6e72974a-b2dc-4dfc-991b-8a01fa48a66e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-button.p-component.p-confirmdialog-accept-button > span.p-button-label.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca6cda6b-f91c-4068-bb8b-b66ad2f9075b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label ng-star-inserted</value>
+      <webElementGuid>9a19cdc2-456d-4a88-86ff-74bcca917551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>13c13b17-d99b-4757-a96f-90ea64dae453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>7c684f17-d6fe-45b0-a15a-df66c0fc4ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;ng-tns-c2196985156-3 p-dialog-mask p-overlay-mask p-overlay-mask-enter ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-3 p-confirmdialog undefined p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-3 p-dialog-footer ng-star-inserted&quot;]/p-button[@class=&quot;ng-tns-c1317319300-0 ng-star-inserted&quot;]/button[@class=&quot;p-ripple p-button p-component p-confirmdialog-accept-button&quot;]/span[@class=&quot;p-button-label ng-star-inserted&quot;]</value>
+      <webElementGuid>192bbf8c-dd67-4f29-859d-5af9dbe71d4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::span[1]</value>
+      <webElementGuid>a76fc13d-18ca-4bdd-bef9-d0f16e0e06f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are You Sure Want to Cancel ?'])[1]/following::span[2]</value>
+      <webElementGuid>ddb05076-8e33-4ec1-8b32-50605a3c993c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>2a658c6c-6544-4bf6-846c-b4bf9c148173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-button[2]/button/span</value>
+      <webElementGuid>f7c3162b-8fda-4c7c-aed0-3cb2e5d27267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>b8da0663-a6a8-4ff6-9275-10bc858b28e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

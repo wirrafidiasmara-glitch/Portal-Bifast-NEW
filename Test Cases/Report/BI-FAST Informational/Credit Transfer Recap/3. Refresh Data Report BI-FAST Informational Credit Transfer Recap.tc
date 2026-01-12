@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Refresh Data Report BI-FAST Informational Credit Transfer Recap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4f38d64-1102-4cef-8684-756bb80ef22d</testCaseGuid>
+</TestCaseEntity>

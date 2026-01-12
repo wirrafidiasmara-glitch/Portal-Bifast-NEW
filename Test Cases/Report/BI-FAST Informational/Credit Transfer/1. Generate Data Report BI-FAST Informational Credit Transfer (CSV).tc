@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Generate Data Report BI-FAST Informational Credit Transfer (CSV)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d6ef865-65a2-4a15-8171-10bd3606eb5c</testCaseGuid>
+</TestCaseEntity>

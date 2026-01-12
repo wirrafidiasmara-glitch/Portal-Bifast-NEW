@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_View</name>
+   <tag></tag>
+   <elementGuidId>ed0fa690-c166-4f62-83b2-a07e40b39c0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2196985156-19.p-dialog-content.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7e756267-1322-421d-a290-1ebe4984dea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2196985156-19 p-dialog-content ng-star-inserted</value>
+      <webElementGuid>ffde0d3a-6a43-4dfa-9c82-619bb259d747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>416ded08-2c52-4fda-be10-fab0d521ff4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Description Feature :  PROXY-INQTransaction Type :  Proxy Management InquiryBank Identifier Code :  BMRIIDJA - PT Bank Inti Indonesia Tbk.Incoming Status : ActiveOutgoing Status : ActiveCreated Date : 14/10/2025 20:52Created By :  User Bifast 04Updated Date : -Updated By :  -</value>
+      <webElementGuid>5c675e2c-7fab-489a-a9b8-a19574ac973f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-incoming-features[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;ng-tns-c2196985156-19 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-19 p-dialog-mask ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-19 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-19 p-dialog-content ng-star-inserted&quot;]</value>
+      <webElementGuid>100bb8ef-24d0-4844-9bb9-355870e165fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      <webElementGuid>f388ddca-0a28-4a0c-872b-4a37241c1112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]</value>
+      <webElementGuid>8592fa5b-5aea-4344-a1ee-befef83385c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Description Feature :  PROXY-INQTransaction Type :  Proxy Management InquiryBank Identifier Code :  BMRIIDJA - PT Bank Inti Indonesia Tbk.Incoming Status : ActiveOutgoing Status : ActiveCreated Date : 14/10/2025 20:52Created By :  User Bifast 04Updated Date : -Updated By :  -' or . = 'Description Feature :  PROXY-INQTransaction Type :  Proxy Management InquiryBank Identifier Code :  BMRIIDJA - PT Bank Inti Indonesia Tbk.Incoming Status : ActiveOutgoing Status : ActiveCreated Date : 14/10/2025 20:52Created By :  User Bifast 04Updated Date : -Updated By :  -')]</value>
+      <webElementGuid>a55bfb74-a8da-4cc2-999e-d84fb7741657</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Download File Report BI-FAST Informational Consolidated Member Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ba3b6b7-de1a-4803-91a2-2a951707c2ad</testCaseGuid>
+</TestCaseEntity>

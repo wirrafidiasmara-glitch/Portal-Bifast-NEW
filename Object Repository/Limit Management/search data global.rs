@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search data global</name>
+   <tag></tag>
+   <elementGuidId>03736cb9-77d4-4675-a4f0-b139d6c44495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p-iconfield.p-iconfield.content-center.p-iconfield-left > input.p-inputtext.p-component.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f574b56f-5bb3-40bf-a4bb-29464ef69d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>75f9eecc-0676-466d-921f-f09d60644e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>501cd2a8-b2b9-45d1-b7c4-ba2e6c5d18b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Global Search</value>
+      <webElementGuid>51f5b034-4847-4325-9d1d-4ebcf793a99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_1&quot;)/div[@class=&quot;p-datatable-header ng-star-inserted&quot;]/div[@class=&quot;flex flex-col gap-2 px-2 py-2 ng-star-inserted&quot;]/div[@class=&quot;flex flex-row justify-between&quot;]/div[@class=&quot;flex flex-col items-end gap-2&quot;]/div[@class=&quot;flex flex-row items-end gap-2&quot;]/p-iconfield[@class=&quot;p-iconfield content-center p-iconfield-left&quot;]/input[@class=&quot;p-inputtext p-component ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>85298549-c488-462a-8839-b9aff4506a41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>62526a42-dcf0-4241-8e86-759d48a77c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_1']/div/div/div/div[2]/div[2]/p-iconfield/input</value>
+      <webElementGuid>814526f2-7f09-453c-a7b9-8b2e4810e14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-iconfield/input</value>
+      <webElementGuid>06d2ae64-2ce7-4008-95e1-e0c7567c019a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Global Search']</value>
+      <webElementGuid>f695ee98-3e30-41f7-8027-592ec17b36ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Cancel Edit Response Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4e84d59-cdfc-497e-80e5-e35b62c5c910</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input search global</name>
+   <tag></tag>
+   <elementGuidId>f8f846ff-80de-4151-a740-241c99edf267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.p-inputtext.p-component.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2bd2626c-ef80-44c2-ac5c-b3791a190f11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7f2fb03d-3b0b-4181-9e39-6afec86c18ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>f74a5ddc-1197-4ac1-8271-baf4bf7228e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Global Search</value>
+      <webElementGuid>15f4f1a8-58ad-46ad-8988-8c5e6d3ef53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_3&quot;)/div[@class=&quot;p-datatable-header ng-star-inserted&quot;]/div[@class=&quot;flex flex-col gap-2 px-2 py-2 ng-star-inserted&quot;]/div[@class=&quot;flex flex-row justify-between&quot;]/div[@class=&quot;flex flex-row items-end gap-2&quot;]/p-iconfield[@class=&quot;p-iconfield content-center p-iconfield-left ng-star-inserted&quot;]/input[@class=&quot;p-inputtext p-component ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>e9ae0b84-06bd-4501-8df2-ac73fe33a0d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>dc35545a-5377-4390-ae9b-299f82547088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_3']/div/div/div/div[2]/p-iconfield/input</value>
+      <webElementGuid>07bedc59-784f-48df-847c-741d8f3ae9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-iconfield/input</value>
+      <webElementGuid>f52a38b0-0756-4a71-b0c6-4b83a40556c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Global Search']</value>
+      <webElementGuid>986619c7-ed69-42a1-8472-c990e6b15e9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

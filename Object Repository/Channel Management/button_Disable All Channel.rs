@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Disable All Channel</name>
+   <tag></tag>
+   <elementGuidId>ed564420-b6ee-43cb-8810-f3cfc5b7db03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.merapi-button-delete.p-1.p-button-sm.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0fc8561d-940b-411f-bec9-dc18f739e7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cfe753e5-664d-4579-b8d4-b27a2137ccb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merapi-button-delete p-1 p-button-sm p-button p-component</value>
+      <webElementGuid>9de686e9-8820-45dc-8ee4-df6fc35ac9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Disable All Channel</value>
+      <webElementGuid>95255f28-7c70-4055-805f-71e41b2b10b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Disable All Channel</value>
+      <webElementGuid>45bc1885-5043-412b-9954-05b5692e2b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_2&quot;)/div[@class=&quot;p-datatable-header ng-star-inserted&quot;]/div[@class=&quot;flex flex-col gap-2 px-2 py-2 ng-star-inserted&quot;]/div[@class=&quot;flex flex-row justify-between&quot;]/div[@class=&quot;flex flex-col items-end gap-2&quot;]/div[@class=&quot;flex flex-row items-end gap-2&quot;]/div[@class=&quot;flex justify-center items-center ng-star-inserted&quot;]/button[@class=&quot;merapi-button-delete p-1 p-button-sm p-button p-component&quot;]</value>
+      <webElementGuid>29e4a1c3-011b-4305-bc2e-becae3453b79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>1052de29-d848-4313-a5c7-ddfeef624140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_2']/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>f9a6f1bb-11bd-4c88-b004-42268dd10c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channel Management'])[3]/following::button[1]</value>
+      <webElementGuid>388ae36c-bc94-431e-aa50-27839872b2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channel Management'])[2]/following::button[4]</value>
+      <webElementGuid>a93266e7-6a21-4fb4-99b1-f1249e3bc78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::button[1]</value>
+      <webElementGuid>5d6f6eeb-e874-4537-b28d-423909def4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[2]</value>
+      <webElementGuid>bb1c74af-b9ad-405a-bef1-6ca020f97118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Disable All Channel']/parent::*</value>
+      <webElementGuid>5e96614c-58b5-4621-a307-465bc5674217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>357d58cc-402d-4806-a529-7b6f30020b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Disable All Channel' and (text() = 'Disable All Channel' or . = 'Disable All Channel')]</value>
+      <webElementGuid>381ac99e-f512-41a1-a088-4ebfcbb6ab75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

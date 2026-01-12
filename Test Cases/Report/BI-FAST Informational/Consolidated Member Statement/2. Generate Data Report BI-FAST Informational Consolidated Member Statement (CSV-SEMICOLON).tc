@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Generate Data Report BI-FAST Informational Consolidated Member Statement (CSV-SEMICOLON)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e73492e5-8f0b-4c16-8e3a-f156789b44c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8. Cancel Delete Transaction Management</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5624b4ce-3d3e-455e-bddf-7e801d02f1c7</testCaseGuid>
+</TestCaseEntity>

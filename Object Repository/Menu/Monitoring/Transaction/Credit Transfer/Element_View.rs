@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_View</name>
+   <tag></tag>
+   <elementGuidId>08977897-ed5c-4486-ad74-17ed1dcb405a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2196985156-205.p-dialog-content.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;BI-Fast ID: 20260102BDKIIDJ1510O0202062517Transaction Fee: 0Transaction Amount: &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13dd4ca8-31ec-44da-9a1c-cbce569c7271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2196985156-205 p-dialog-content ng-star-inserted</value>
+      <webElementGuid>1d9c46b7-544a-41d3-9bd0-15cda0c8c0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>c7e5c84e-499e-40a6-ad09-e77fd6f20a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BI-Fast ID: 20260102BDKIIDJ1510O0202062517Transaction Fee: 0Transaction Amount: 0Transaction Type: IncomingTransaction Status Code: 0000Transaction Status Message: SuccessSender Account No: 0019845621100Sender Bank: BDKIIDJ1Recipient Account No: 400000001Recipient Account Name: SIMULATORRecipient Bank: BMRIIDJABank Identifier Code: BMRIIDJA - PT Bank Inti Indonesia Tbk.Category Purpose: InvestmentTransaction Date: 2026-01-02 18:25:16.835Charge Type: -</value>
+      <webElementGuid>35d8011a-bb7a-4137-ae35-9dd1f41611a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-transaction-history[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;p-fluid ng-tns-c2196985156-205 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-205 p-dialog-mask p-overlay-mask p-overlay-mask-enter ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-205 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-205 p-dialog-content ng-star-inserted&quot;]</value>
+      <webElementGuid>9b5f61f3-b958-4057-95d1-94d430418f2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      <webElementGuid>e29fb670-6818-4138-b0aa-eeb08ee7854f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dialog/div/div/div[3]</value>
+      <webElementGuid>ca829187-3113-43d3-8489-3732cf0ffeae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BI-Fast ID: 20260102BDKIIDJ1510O0202062517Transaction Fee: 0Transaction Amount: 0Transaction Type: IncomingTransaction Status Code: 0000Transaction Status Message: SuccessSender Account No: 0019845621100Sender Bank: BDKIIDJ1Recipient Account No: 400000001Recipient Account Name: SIMULATORRecipient Bank: BMRIIDJABank Identifier Code: BMRIIDJA - PT Bank Inti Indonesia Tbk.Category Purpose: InvestmentTransaction Date: 2026-01-02 18:25:16.835Charge Type: -' or . = 'BI-Fast ID: 20260102BDKIIDJ1510O0202062517Transaction Fee: 0Transaction Amount: 0Transaction Type: IncomingTransaction Status Code: 0000Transaction Status Message: SuccessSender Account No: 0019845621100Sender Bank: BDKIIDJ1Recipient Account No: 400000001Recipient Account Name: SIMULATORRecipient Bank: BMRIIDJABank Identifier Code: BMRIIDJA - PT Bank Inti Indonesia Tbk.Category Purpose: InvestmentTransaction Date: 2026-01-02 18:25:16.835Charge Type: -')]</value>
+      <webElementGuid>9cec688e-0a12-46c9-b078-89c3e95ffcd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

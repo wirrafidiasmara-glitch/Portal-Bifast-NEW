@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show Advance Filter_pi pi-chevron-down_9f0f91</name>
+   <tag></tag>
+   <elementGuidId>33276624-f0ae-4fe8-a9a8-c7a848c39bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.pi.pi-chevron-down.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-accordion-header[@id='pn_id_105_accordionheader_activePanelValue']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>89c52f8e-e235-41c8-b40a-b8bff9524949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b1c04ded-673b-49a2-a04c-d4c52aa98968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-chevron-down ng-star-inserted</value>
+      <webElementGuid>a0e2eab7-6759-42be-9654-eb1693d0899d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_105_accordionheader_activePanelValue&quot;)/span[@class=&quot;pi pi-chevron-down ng-star-inserted&quot;]</value>
+      <webElementGuid>cbf065b4-5206-4289-a0a0-e8d7661dfd7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-accordion-header[@id='pn_id_105_accordionheader_activePanelValue']/span</value>
+      <webElementGuid>0aaa4eff-7680-46a7-9338-d30fb4d23588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-accordion-header/span</value>
+      <webElementGuid>f53cd4fb-05e9-4634-b335-ff5155ce3ecf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

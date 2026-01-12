@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Refresh Data Report BI-FAST Informational Member Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b26e50f2-5190-47f9-9d05-697ccb85a89a</testCaseGuid>
+</TestCaseEntity>

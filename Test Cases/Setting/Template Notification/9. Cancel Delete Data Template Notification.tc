@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Cancel Delete Data Template Notification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4354b259-4319-4a9e-855b-c6112576c67d</testCaseGuid>
+</TestCaseEntity>

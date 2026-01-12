@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button x view</name>
+   <tag></tag>
+   <elementGuidId>2760d53b-e49e-4072-b827-ec6ff78ed58f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>timesicon.p-component.p-iconwrapper.ng-tns-c2196985156-15.ng-star-inserted > svg.p-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>43c96dad-9cd3-47bc-b4ca-1b5f22421bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>a786dd94-9e04-4aa4-a851-1e32ba659c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>00505590-46be-419c-940f-bd437a4c3b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 14</value>
+      <webElementGuid>fe4d351d-14d3-4072-bf71-edf0242b157c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>f8b49078-6e44-4e6a-a745-ce03991715a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>eba0e400-b0b6-42b4-a812-f584a56457e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-icon</value>
+      <webElementGuid>57102a55-2634-48ef-a264-78511433d747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e45af0d0-7614-409f-9aba-1d458f58653f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden p-unselectable-text&quot;]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-blocked-accounts[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;p-fluid ng-tns-c2196985156-15 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-15 p-dialog-mask p-overlay-mask p-overlay-mask-enter ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-15 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-15 p-dialog-header ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-15 p-dialog-header-actions&quot;]/p-button[@class=&quot;ng-tns-c2196985156-15 ng-star-inserted&quot;]/button[@class=&quot;p-ripple p-button p-component p-button-icon-only p-button-secondary p-button-rounded p-button-text p-dialog-close-button&quot;]/timesicon[@class=&quot;p-component p-iconwrapper ng-tns-c2196985156-15 ng-star-inserted&quot;]/svg[@class=&quot;p-icon&quot;]</value>
+      <webElementGuid>4a8407c1-3721-4786-9af3-ecaededf0d1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>2bdf2961-f596-4a5d-8d72-500f59317229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5752545d-e8a7-4b03-b865-ea48e34dc64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=': Incoming'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a8d4a550-e4ac-4a79-a1cb-e047ebd7eb65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

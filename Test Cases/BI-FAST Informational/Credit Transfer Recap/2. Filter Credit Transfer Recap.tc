@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Filter Credit Transfer Recap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e568e097-fa41-40df-93fd-a3bf63f4d8a7</testCaseGuid>
+</TestCaseEntity>

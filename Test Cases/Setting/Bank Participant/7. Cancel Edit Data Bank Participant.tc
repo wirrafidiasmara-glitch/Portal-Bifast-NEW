@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. Cancel Edit Data Bank Participant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e510e0f3-3bbf-4dd1-a92d-c13e33d88e95</testCaseGuid>
+</TestCaseEntity>

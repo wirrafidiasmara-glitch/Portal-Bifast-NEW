@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Cancel Sign On Network Management Message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2511cfa1-7ede-495b-864c-1ef9ad5c0cd7</testCaseGuid>
+</TestCaseEntity>

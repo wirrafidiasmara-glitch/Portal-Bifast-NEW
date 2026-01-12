@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Filter Data Monitoring History Network Management Message Type Incoming</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc009991-cf35-4c5a-a091-f8a1c297b130</testCaseGuid>
+</TestCaseEntity>

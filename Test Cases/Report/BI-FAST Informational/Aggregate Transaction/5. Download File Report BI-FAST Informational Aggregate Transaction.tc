@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Download File Report BI-FAST Informational Aggregate Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f77850fc-83f2-4fee-96d0-4b8346c33718</testCaseGuid>
+</TestCaseEntity>

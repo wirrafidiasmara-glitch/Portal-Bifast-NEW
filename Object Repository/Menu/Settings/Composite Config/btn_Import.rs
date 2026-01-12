@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Import</name>
+   <tag></tag>
+   <elementGuidId>4ca75a68-f8b7-45e7-a3b0-bc46abd90782</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-sidebarlayoutrefactor/div/div[2]/app-composite-config-import/div/p-panel/div/div[2]/div/p-card/div/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Import' or . = 'Import')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-content-end.mt-4 > button.p-button.p-component</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Import&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71305700-f8ae-41ef-88ef-bb8e735187a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Import</value>
+      <webElementGuid>1bd52591-3de1-461e-989d-a4735cb43780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-check</value>
+      <webElementGuid>dabfb846-01ec-42b0-b54d-c09fed746c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component</value>
+      <webElementGuid>5233ee8e-dbfd-4a60-8189-fd3fbb9227be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Import</value>
+      <webElementGuid>cae561a6-f7a7-44aa-928e-0a9e48b18641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_167_content&quot;)/div[@class=&quot;p-panel-content ng-tns-c3953506556-73&quot;]/p-card[@class=&quot;ng-tns-c3953506556-73&quot;]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;flex justify-content-end mt-4&quot;]/button[@class=&quot;p-button p-component&quot;]</value>
+      <webElementGuid>43eefd82-5f19-4e5b-94e0-1c71fc8f8a9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_167_content']/div/p-card/div/div/div/div[2]/button</value>
+      <webElementGuid>574228d5-19d0-4d1d-bc1c-6cc57be9d159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BMRIIDJA'])[1]/following::button[6]</value>
+      <webElementGuid>f3c01302-9c7c-4358-be80-f5e6593d4976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JSON'])[1]/following::button[6]</value>
+      <webElementGuid>b8715352-c634-4b1d-a32c-0c5cd7fe987d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>cd113055-2220-43b8-a476-ea28eb89e7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Import' or . = 'Import')]</value>
+      <webElementGuid>1a7c2524-ef92-44ed-bac1-21a301b8e2a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

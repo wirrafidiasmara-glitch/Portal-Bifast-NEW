@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start Transaction DateEnd Transaction D_175acb</name>
+   <tag></tag>
+   <elementGuidId>aa12b761-04f3-491e-8bc6-ddd826b00858</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-panel-content.ng-tns-c3953506556-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pn_id_102_content']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c8a9cc6-4903-4234-b709-88cf976a2b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-panel-content ng-tns-c3953506556-16</value>
+      <webElementGuid>32db3d44-7fc1-4cb0-bc4c-8624a9945fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Transaction Date *End Transaction Date *Transaction TypeAccount NumberAccount NameKOMI RefFilter Data</value>
+      <webElementGuid>9fc4febf-6720-433d-bd04-ee8a867ecd7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_102_content&quot;)/div[@class=&quot;p-panel-content ng-tns-c3953506556-16&quot;]</value>
+      <webElementGuid>4204b4c6-00e8-4cfd-8d52-9019372e84d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_102_content']/div</value>
+      <webElementGuid>025b51dc-0215-4cab-935e-fab6062172cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Data'])[1]/following::div[3]</value>
+      <webElementGuid>5cced3a9-2094-452b-a415-78a734efacaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Blacklist'])[2]/following::div[10]</value>
+      <webElementGuid>e963a463-15bf-44ad-81c1-907826e0b18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-panel/div/div[2]/div</value>
+      <webElementGuid>d197429e-5df9-4687-9759-f44fc33b72d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Start Transaction Date *End Transaction Date *Transaction TypeAccount NumberAccount NameKOMI RefFilter Data' or . = 'Start Transaction Date *End Transaction Date *Transaction TypeAccount NumberAccount NameKOMI RefFilter Data')]</value>
+      <webElementGuid>d1b551e8-f933-471a-bc70-d14a78ea2712</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

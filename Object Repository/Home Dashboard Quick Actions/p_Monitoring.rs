@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Monitoring</name>
+   <tag></tag>
+   <elementGuidId>1c96e781-d0d7-4b76-8791-64eb2e60f517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p-card:nth-of-type(3) > div.p-card.p-component > div.p-card-body > div.p-card-content > div.flex > div:nth-of-type(2) > p.quick-access-module</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='BI-PRM'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>819430ef-a641-4641-afa5-0d3b9cfe02b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quick-access-module</value>
+      <webElementGuid>aefa9348-f97a-4861-a108-8babd0a19b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitoring</value>
+      <webElementGuid>46c73637-b02e-4193-ac7b-a8305269abae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-home[1]/div[@class=&quot;home-content py-8&quot;]/div[@class=&quot;quick-access-container&quot;]/p-card[3]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;flex&quot;]/div[2]/p[@class=&quot;quick-access-module&quot;]</value>
+      <webElementGuid>0efb9d90-c340-48f6-961d-224f72ee7159</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI-PRM'])[1]/following::p[1]</value>
+      <webElementGuid>da88f196-0677-4113-9b07-1e2fb82fbe74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Transfer'])[3]/following::p[2]</value>
+      <webElementGuid>738e2294-df77-40f6-9347-8b0e3b7e34d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Performance'])[2]/preceding::p[1]</value>
+      <webElementGuid>883da094-67bf-4406-bf63-4799c9bf533a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-card[3]/div/div/div/div/div[2]/p</value>
+      <webElementGuid>4858fab3-248a-4529-a41b-aa50b22710f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Monitoring' or . = 'Monitoring')]</value>
+      <webElementGuid>6a04c1c4-cad5-4c46-abfe-008585747d2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

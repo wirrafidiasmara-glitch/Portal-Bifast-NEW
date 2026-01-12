@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Generate Data Report BI-FAST Informational Account Search (CSV-SEMICOLON)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b40f5f2-7885-4859-b4f6-cf5c07b78af0</testCaseGuid>
+</TestCaseEntity>

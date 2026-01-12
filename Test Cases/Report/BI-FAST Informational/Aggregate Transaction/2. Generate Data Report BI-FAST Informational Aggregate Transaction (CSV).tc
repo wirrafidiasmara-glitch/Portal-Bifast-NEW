@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Generate Data Report BI-FAST Informational Aggregate Transaction (CSV)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50acee2d-ddd5-4747-8a6a-f98e08171e6f</testCaseGuid>
+</TestCaseEntity>

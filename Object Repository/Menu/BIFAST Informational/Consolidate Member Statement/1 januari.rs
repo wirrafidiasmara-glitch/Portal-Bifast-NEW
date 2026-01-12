@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1 januari</name>
+   <tag></tag>
+   <elementGuidId>226e9a64-5045-4cd7-a56b-26863e0e2d0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pn_id_109_panel&quot;]/div[1]/div/table/tbody/tr[1]/td[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ripple.ng-tns-c133394098-60.p-datepicker-day.p-datepicker-day-selected.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '1' or . = '1')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;1&quot;s >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b645a8e8-553f-4a3e-855b-94f85a85ce67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>16e93e57-97b0-4dbf-9701-e681ed5061e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple ng-tns-c133394098-60 p-datepicker-day p-datepicker-day-selected ng-star-inserted</value>
+      <webElementGuid>a7ec1de2-d080-49a3-b21e-06a37e66790d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-date</name>
+      <type>Main</type>
+      <value>2026-0-1</value>
+      <webElementGuid>3966a650-f2c4-45de-9fa6-975ae649e438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>29775d97-30e2-467b-b005-dd51b9c7f640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_293_panel&quot;)/div[@class=&quot;p-datepicker-calendar-container ng-tns-c133394098-60 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar ng-tns-c133394098-60 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-day-view ng-tns-c133394098-60 ng-star-inserted&quot;]/tbody[@class=&quot;ng-tns-c133394098-60&quot;]/tr[@class=&quot;ng-tns-c133394098-60 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c133394098-60 p-datepicker-day-cell ng-star-inserted&quot;]/span[@class=&quot;p-ripple ng-tns-c133394098-60 p-datepicker-day p-datepicker-day-selected ng-star-inserted&quot;]</value>
+      <webElementGuid>2cf65c14-7ef6-497a-9ac7-4289fb0af8af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_293_panel']/div/div/table/tbody/tr/td[5]/span</value>
+      <webElementGuid>49cf0e90-4ff8-4c43-a0c0-79546521a4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[5]</value>
+      <webElementGuid>6e0cd7fb-e1a3-44e7-b2cc-b2f688eb8e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::span[6]</value>
+      <webElementGuid>c44d3c29-78e5-47f3-9bc4-1711d0edb5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::span[32]</value>
+      <webElementGuid>bda50666-8a28-46a9-942b-cc9afa6910f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>ea59e75d-f15c-4352-b9bc-6cba55521051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/span</value>
+      <webElementGuid>4c16a3a2-63d6-494e-a9ea-0c5b42dabc37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>24941532-692b-4d9b-8150-45961bc042c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

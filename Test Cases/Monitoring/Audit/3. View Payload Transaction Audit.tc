@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. View Payload Transaction Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03a8c0be-b7be-43f3-b0cf-1fc2075a053f</testCaseGuid>
+</TestCaseEntity>

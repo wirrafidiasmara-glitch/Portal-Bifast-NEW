@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Search Data Report BI-BAST Informational Account Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>105ca607-e81a-49a7-ad85-e2c5ad800c35</testCaseGuid>
+</TestCaseEntity>

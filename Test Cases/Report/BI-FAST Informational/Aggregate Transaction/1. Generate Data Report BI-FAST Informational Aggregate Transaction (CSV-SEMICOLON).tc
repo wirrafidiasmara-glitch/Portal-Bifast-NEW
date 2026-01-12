@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Generate Data Report BI-FAST Informational Aggregate Transaction (CSV-SEMICOLON)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>432c321b-dc32-442b-8570-32a330097c57</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button user profile</name>
+   <tag></tag>
+   <elementGuidId>effe89ab-09cd-4cdb-800e-815fe1fe0119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p-avatar.border-0.border-cyan-500.p-avatar.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::p-avatar[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p-avatar</value>
+      <webElementGuid>654610b5-e6e2-4858-9d15-c3cd8d870c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-user</value>
+      <webElementGuid>d4fb83da-a172-4373-8c43-8291316cf6b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shape</name>
+      <type>Main</type>
+      <value>square</value>
+      <webElementGuid>bfd323ad-d438-4643-8fa5-a638a403e07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>normal</value>
+      <webElementGuid>785e8219-1cf4-4a1c-91de-55ce2bca57b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>styleclass</name>
+      <type>Main</type>
+      <value>border-cyan-500 border-0</value>
+      <webElementGuid>fbf4f7aa-b6bc-425a-8d50-beb100d787b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>avatar</value>
+      <webElementGuid>7ab946c6-a1b1-4689-909a-baa28ac7bee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-0 border-cyan-500 p-avatar p-component</value>
+      <webElementGuid>8754593a-5fe6-4cef-8e2c-818de03a115e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/header[@class=&quot;mb-2 sticky top-0 z-[9999] bg-white&quot;]/p-menubar[1]/div[@class=&quot;bg-white p-menubar p-component&quot;]/div[@class=&quot;p-menubar-end&quot;]/div[@class=&quot;flex header-text text-center items-center content-center self-center justify-center&quot;]/a[@class=&quot;flex flex-row items-center justify-center&quot;]/div[@class=&quot;flex flex-row gap-2 items-center&quot;]/p-avatar[@class=&quot;border-0 border-cyan-500 p-avatar p-component&quot;]</value>
+      <webElementGuid>b7c93aa0-9c02-41b5-9c7f-18eac47f0118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::p-avatar[1]</value>
+      <webElementGuid>2a2e6346-7e4f-4fbe-b90b-f6de64f82ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Confirmation'])[1]/following::p-avatar[1]</value>
+      <webElementGuid>aec57b9e-61ea-417e-8433-6885101c172e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to KOMI BI-FAST Portal'])[1]/preceding::p-avatar[1]</value>
+      <webElementGuid>e20dc434-8054-4e9d-bca2-9011b3478755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Transfer'])[2]/preceding::p-avatar[1]</value>
+      <webElementGuid>e70f1578-b9bc-4afd-8a79-38c0c563494d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-avatar</value>
+      <webElementGuid>aab66c51-4fc5-4297-abbb-6f8395feeaea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

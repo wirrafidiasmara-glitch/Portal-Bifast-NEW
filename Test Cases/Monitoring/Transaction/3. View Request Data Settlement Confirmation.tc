@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. View Request Data Settlement Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee1c26fc-478b-4adb-a984-4bfda16c7d61</testCaseGuid>
+</TestCaseEntity>

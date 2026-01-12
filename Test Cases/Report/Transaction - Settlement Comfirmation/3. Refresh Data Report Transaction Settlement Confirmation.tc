@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Refresh Data Report Transaction Settlement Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff1f212d-5c27-4b94-8ed0-edee26e15d25</testCaseGuid>
+</TestCaseEntity>

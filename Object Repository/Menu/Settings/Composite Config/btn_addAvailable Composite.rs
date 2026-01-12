@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_addAvailable Composite</name>
+   <tag></tag>
+   <elementGuidId>0b625d64-b8c9-407b-bf28-5ac30579ae3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-picklist-controls.p-picklist-transfer-controls > button.p-ripple.p-button.p-component.p-button-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Move to Target&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b903e8ac-2e19-4193-b34d-5100d4c079e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f6c9dc28-685c-4352-b3f7-0177887dc4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>severity</name>
+      <type>Main</type>
+      <value>secondary</value>
+      <webElementGuid>ba9ba1ad-1179-452f-92de-1b5658deea1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-button p-component p-button-secondary</value>
+      <webElementGuid>166a7de2-4266-4e8d-9a6e-e7618dd159fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Move to Target</value>
+      <webElementGuid>e43038e5-1a99-426a-8891-d8571ae32dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>moveToTargetButton</value>
+      <webElementGuid>f13a8943-9729-445b-b985-a2087b99e079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_146_content&quot;)/div[@class=&quot;p-panel-content ng-tns-c3953506556-63&quot;]/p-card[@class=&quot;ng-tns-c3953506556-63&quot;]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/p-picklist[1]/div[@class=&quot;p-picklist p-component&quot;]/div[@class=&quot;p-picklist-controls p-picklist-transfer-controls&quot;]/button[@class=&quot;p-ripple p-button p-component p-button-secondary&quot;]</value>
+      <webElementGuid>251ff26c-2070-4d3b-ab52-b47129b06ce2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>73ff44d2-ee99-42e8-9703-b5e362cecea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_146_content']/div/p-card/div/div/div/p-picklist/div/div[3]/button</value>
+      <webElementGuid>03d44a7f-ed6e-43b7-b31b-07e5deba2ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JSON | BMRIIDJA'])[1]/following::button[1]</value>
+      <webElementGuid>1310f229-2cca-49f7-8f1a-5f4e8f1b8f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing23'])[1]/following::button[1]</value>
+      <webElementGuid>f9c09c08-3fa3-4698-92c5-22762454c852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected Composite'])[1]/preceding::button[4]</value>
+      <webElementGuid>87450c13-e44d-4b77-8dd5-247404354162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found'])[1]/preceding::button[4]</value>
+      <webElementGuid>bdb5bd45-410e-4fdb-9d53-bb90b0363c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>6032e54b-7b8f-487e-b264-882074638aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>84bd974b-2d63-4d8c-a5fd-7abe1c27df13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

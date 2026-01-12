@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Generate Data Report BI-FAST Informational Credit Transfer (CSV-SEMICOLON)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f0f3049-1cc0-41bc-8f85-6ed168674876</testCaseGuid>
+</TestCaseEntity>

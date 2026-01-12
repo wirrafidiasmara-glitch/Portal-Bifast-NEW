@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Search Data Report BI-FAST Informational Transaction Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3dcaccb-bf83-4a4d-bacc-82c01c57b3c0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Filter Data Account Blacklist Type Incoming</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a071568-3416-4851-a67a-af857118fb64</testCaseGuid>
+</TestCaseEntity>

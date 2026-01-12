@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Search Data Report BI-FAST Informational Consolidated Member Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4deab86b-8240-4988-b498-f3591bc45f47</testCaseGuid>
+</TestCaseEntity>

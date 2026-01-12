@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Cancel Edit Transaction Management</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89b8b52b-4798-46df-a8e4-a64b0a739fd4</testCaseGuid>
+</TestCaseEntity>

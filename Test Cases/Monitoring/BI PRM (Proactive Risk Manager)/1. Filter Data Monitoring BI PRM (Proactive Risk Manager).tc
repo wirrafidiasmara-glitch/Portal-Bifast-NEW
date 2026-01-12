@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Filter Data Monitoring BI PRM (Proactive Risk Manager)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18c8471f-7bef-436d-96a2-37dbef8d7223</testCaseGuid>
+</TestCaseEntity>

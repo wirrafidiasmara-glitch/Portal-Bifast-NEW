@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Cancel Add Branch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e5e81c9-d37e-4984-a76a-8af6918f48d4</testCaseGuid>
+</TestCaseEntity>

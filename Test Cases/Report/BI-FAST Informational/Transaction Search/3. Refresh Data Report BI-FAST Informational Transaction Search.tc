@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Refresh Data Report BI-FAST Informational Transaction Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a58fb18a-3045-4983-a1e1-b4b8654e9f61</testCaseGuid>
+</TestCaseEntity>

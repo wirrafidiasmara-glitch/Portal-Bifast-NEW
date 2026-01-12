@@ -1,0 +1,37 @@
+[
+  {
+    "composite": {
+      "id": "38f4d1c9-d4dc-49ce-889c-e30261d00779",
+      "compositeApp": "BIFAST",
+      "compositeType": "JSON",
+      "compositeCode": "Testing23",
+      "description": "Katalon Test",
+      "bic": "BMRIIDJA"
+    },
+    "steps": [
+      {
+        "idComposite": "38f4d1c9-d4dc-49ce-889c-e30261d00779",
+        "stepName": "Step 1",
+        "stepService": "Testing123",
+        "stepSequence": 1,
+        "actionOnException": "ignore",
+        "status": "N",
+        "backend": "BIFAST-API",
+        "compensationCode": "93",
+        "execution": "SYNC"
+      },
+      {
+        "idComposite": "38f4d1c9-d4dc-49ce-889c-e30261d00779",
+        "stepName": "Step2",
+        "stepService": "Katalon12324",
+        "stepSequence": 2,
+        "actionOnException": "ignore",
+        "status": "N",
+        "backend": "BIFAST-API",
+        "compensationCode": "93",
+        "execution": "SYNC"
+      }
+    ],
+    "rowId": "38f4d1c9-d4dc-49ce-889c-e30261d00779"
+  }
+]

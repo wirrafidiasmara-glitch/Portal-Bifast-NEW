@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Cancel Delete Composite Config</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acc2afeb-0428-4f4d-9f25-df48d3c7f251</testCaseGuid>
+</TestCaseEntity>

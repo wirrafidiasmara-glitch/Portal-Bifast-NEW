@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Cancel Delete Response Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>889d22f6-ff68-4a7a-bf08-bbc0dbeb6dac</testCaseGuid>
+</TestCaseEntity>

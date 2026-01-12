@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Analytics</name>
+   <tag></tag>
+   <elementGuidId>b0dc5ae1-e765-414a-98c5-180e6143f7fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p-card:nth-of-type(4) > div.p-card.p-component > div.p-card-body > div.p-card-content > div.flex > div:nth-of-type(2) > p.quick-access-module</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Performance'])[2]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1d4712f0-e916-4a9f-a1db-6204b536f019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quick-access-module</value>
+      <webElementGuid>7faadadf-05a2-4b7b-a43c-5920bfd17c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Analytics</value>
+      <webElementGuid>132b8d7c-321b-411c-b8fc-e194944f8156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-home[1]/div[@class=&quot;home-content py-8&quot;]/div[@class=&quot;quick-access-container&quot;]/p-card[4]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;flex&quot;]/div[2]/p[@class=&quot;quick-access-module&quot;]</value>
+      <webElementGuid>4ea3471f-32d0-4d71-8b11-56f64bafa356</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Performance'])[2]/following::p[1]</value>
+      <webElementGuid>d73e4452-38c3-40d5-8274-877311305018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI-PRM'])[1]/following::p[2]</value>
+      <webElementGuid>9c1f9f13-e074-40ea-946a-328516909583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-card[4]/div/div/div/div/div[2]/p</value>
+      <webElementGuid>2d5e9456-f1fe-4958-8e85-8831b4a185ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Analytics' or . = 'Analytics')]</value>
+      <webElementGuid>def8b37f-6ef0-470a-8eaa-a6e77ea0ba8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

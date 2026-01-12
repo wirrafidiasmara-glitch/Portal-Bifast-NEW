@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button notification</name>
+   <tag></tag>
+   <elementGuidId>3ce90406-51a6-4991-948c-4f4ffd0afabb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>402a2512-5cd5-40cc-9b05-831345d748fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-button p-component p-button-icon-only rounded-full! w-10! h-10! flex items-center justify-center border-0 transition-colors custom-bar-btn !bg-transparent hover:bg-[#F1F5F9]!</value>
+      <webElementGuid>b744b68a-2eee-4eb0-ba15-e607259e873e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58351e9b-3cb6-4a4f-892b-d38357058402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>59381128-a129-4030-9fe4-28ca8a012dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>346ba94f-484b-4aca-9e36-fc1ac2a3e2f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/header[@class=&quot;mb-2 sticky top-0 z-[9999] bg-white&quot;]/p-menubar[1]/div[@class=&quot;bg-white p-menubar p-component&quot;]/div[@class=&quot;p-menubar-end&quot;]/div[@class=&quot;flex header-text text-center items-center content-center self-center justify-center&quot;]/a[@class=&quot;flex flex-row items-center justify-center&quot;]/div[@class=&quot;flex flex-row gap-2 items-center&quot;]/app-notifications[1]/p-button[1]/button[@class=&quot;p-ripple p-button p-component p-button-icon-only rounded-full! w-10! h-10! flex items-center justify-center border-0 transition-colors custom-bar-btn !bg-transparent hover:bg-[#F1F5F9]!&quot;]</value>
+      <webElementGuid>5c4beacc-ddba-41d1-b6cd-a22bf244a276</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>9f4ca854-65db-455f-87bc-fc20f070cdf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::button[1]</value>
+      <webElementGuid>dec83988-0bd0-4ebe-9464-66833a01060f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Confirmation'])[1]/following::button[2]</value>
+      <webElementGuid>d4073034-437b-4a15-85b7-f5ee01aa6ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to KOMI BI-FAST Portal'])[1]/preceding::button[3]</value>
+      <webElementGuid>ad5f3d71-d4be-469d-b269-5e99216e8e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Transfer'])[2]/preceding::button[3]</value>
+      <webElementGuid>779f77c5-876c-4e9f-a97b-aa26f3aa77b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-notifications/p-button/button</value>
+      <webElementGuid>eefe7c6f-ce1d-406d-8cd7-7a0cc88b5572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>4a3f2a04-e07c-43fa-b445-73947b3578ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

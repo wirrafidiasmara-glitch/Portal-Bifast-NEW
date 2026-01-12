@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. Delete Transaction Management</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1f28f7a-3bd7-4be7-ba86-4c1fd14be1c2</testCaseGuid>
+</TestCaseEntity>

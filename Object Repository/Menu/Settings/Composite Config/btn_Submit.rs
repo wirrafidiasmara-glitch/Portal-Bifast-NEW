@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Submit</name>
+   <tag></tag>
+   <elementGuidId>e8aa83c4-ac2c-40c0-b682-d35e8ba9b96b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card.p-fluid.ng-star-inserted > div.p-formgrid.grid.btn-left > div.field.col-2 > button.p-button-sm.merapi-button-page.p-button.p-component</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Step Data&quot;i >> internal:role=button[name=&quot;Submit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1119bf1a-6fb9-4755-8846-c9e93cafee07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-plus</value>
+      <webElementGuid>4c3cf388-427a-4f2b-b106-cc18dce572a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>045047cd-2526-4846-b75c-c60307c1e695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-sm merapi-button-page p-button p-component</value>
+      <webElementGuid>65e8789c-3f4b-44b8-ba03-5a07e44e07c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>a627064b-da60-4cf7-9742-ae70b4a29f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_143_content&quot;)/div[@class=&quot;p-panel-content ng-tns-c3953506556-25&quot;]/app-step-data[@class=&quot;ng-tns-c3953506556-25&quot;]/p-dialog[@class=&quot;ng-tns-c2196985156-29 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-29 p-dialog-mask ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-29 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-29 p-dialog-content ng-star-inserted&quot;]/app-step-detail[@class=&quot;ng-tns-c2196985156-29 ng-star-inserted&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card p-fluid ng-star-inserted&quot;]/div[@class=&quot;p-formgrid grid btn-left&quot;]/div[@class=&quot;field col-2&quot;]/button[@class=&quot;p-button-sm merapi-button-page p-button p-component&quot;]</value>
+      <webElementGuid>bf5d16ba-c2e7-44ef-a9e3-1114e14cb600</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>9ab0e4f0-e59b-4470-8652-62058e2457cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_143_content']/div/app-step-data/p-dialog/div/div/div[3]/app-step-detail/div/div/div/div/div[2]/button</value>
+      <webElementGuid>7ec592b5-d249-4694-a078-ee52f2fb532a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>67bed595-60f3-46cb-901b-e949cbad63fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIFAST-API - GLOBAL'])[1]/following::button[2]</value>
+      <webElementGuid>b5eefd28-0bd7-44af-9d12-cdd11b2a9857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::button[1]</value>
+      <webElementGuid>1a94f95a-10c7-48cb-b183-e0f30a9ff8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-step-detail/div/div/div/div/div[2]/button</value>
+      <webElementGuid>7ea47a29-47a2-446d-a3d1-0fe8e0ccf0df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>fadfa0b8-e65f-46f4-8c53-c88b74f2bec8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

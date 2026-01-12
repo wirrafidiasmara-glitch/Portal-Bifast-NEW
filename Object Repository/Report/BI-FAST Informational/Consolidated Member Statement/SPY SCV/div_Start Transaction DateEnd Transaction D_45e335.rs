@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start Transaction DateEnd Transaction D_45e335</name>
+   <tag></tag>
+   <elementGuidId>8cc2f4e8-a589-4631-987e-1ab3b1d795b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-panel-content.ng-tns-c3953506556-17</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pn_id_116_content']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76460f63-7b32-40d9-88ef-4e8e22618c2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-panel-content ng-tns-c3953506556-17</value>
+      <webElementGuid>dbf7280d-7274-4e76-9e64-f8ef99aa6cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Transaction Date *End Transaction Date *Report Format *Generate Report</value>
+      <webElementGuid>a61c14c6-e382-4527-bda0-304d144f7a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_116_content&quot;)/div[@class=&quot;p-panel-content ng-tns-c3953506556-17&quot;]</value>
+      <webElementGuid>664487a0-d66b-4a23-b58a-843c961417d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_116_content']/div</value>
+      <webElementGuid>32bde7ee-f1ea-4ad9-a270-05cb80be04f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Consolidated Member Statement'])[1]/following::div[3]</value>
+      <webElementGuid>3b2b0b00-f052-4bce-b0a8-5631acd5d376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consolidated Member Statement'])[3]/following::div[14]</value>
+      <webElementGuid>9fa6e562-ec4b-4419-abae-01c5e1c0d138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-panel/div/div[2]/div</value>
+      <webElementGuid>2bf41ae4-1c17-4abe-a1d4-2e2e7deefbcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Start Transaction Date *End Transaction Date *Report Format *Generate Report' or . = 'Start Transaction Date *End Transaction Date *Report Format *Generate Report')]</value>
+      <webElementGuid>6b246afd-2e87-4fb6-bb1d-09c38a2269a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

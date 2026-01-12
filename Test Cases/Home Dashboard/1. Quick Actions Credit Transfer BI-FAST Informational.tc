@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Quick Actions Credit Transfer BI-FAST Informational</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2abd546f-d6e9-4bb1-b5fc-eb2e149731c2</testCaseGuid>
+</TestCaseEntity>

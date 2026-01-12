@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>element_filter</name>
+   <tag></tag>
+   <elementGuidId>49bf064b-a799-47bf-83c4-a391adc4ec5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='saveForm']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid.align-items-center.px-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Start Initiation Date *End Initiation Date *StatusStart Status DateEnd Status Da&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f64cf2b7-a7e6-4c97-a853-55e6a94ca9b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid align-items-center px-0</value>
+      <webElementGuid>146c5cde-7d3b-4e84-900b-0c7154a798ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Initiation Date *End Initiation Date *StatusStart Status DateEnd Status Date</value>
+      <webElementGuid>5c02781e-cd49-41a2-a0c7-e15d5713d250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;saveForm&quot;)/div[@class=&quot;grid align-items-center px-0&quot;]</value>
+      <webElementGuid>47b2dea7-3aba-4f6c-89b3-5f317027ce89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='saveForm']/div</value>
+      <webElementGuid>a8a1e8ea-94ce-49e6-9a6c-763f2418d26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Data'])[1]/following::div[4]</value>
+      <webElementGuid>81b85e3c-f51f-4a5c-8e9d-c440a887baec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Confirmation'])[3]/following::div[11]</value>
+      <webElementGuid>8229ac76-dfff-4a6b-9c32-3ae1d6d21ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>df5c67d4-780f-410c-88dd-fc24f0dd9306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Start Initiation Date *End Initiation Date *StatusStart Status DateEnd Status Date' or . = 'Start Initiation Date *End Initiation Date *StatusStart Status DateEnd Status Date')]</value>
+      <webElementGuid>48a26740-642c-4624-8865-10ea4abcc0ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

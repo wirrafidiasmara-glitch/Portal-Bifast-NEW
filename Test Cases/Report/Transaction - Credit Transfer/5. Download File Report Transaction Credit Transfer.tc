@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Download File Report Transaction Credit Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f0f9618-9171-4b4e-813e-a51ffd6e563b</testCaseGuid>
+</TestCaseEntity>

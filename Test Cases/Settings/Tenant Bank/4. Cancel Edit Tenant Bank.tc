@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Cancel Edit Tenant Bank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81ea9113-804c-400e-b3a3-60eb554c6b22</testCaseGuid>
+</TestCaseEntity>

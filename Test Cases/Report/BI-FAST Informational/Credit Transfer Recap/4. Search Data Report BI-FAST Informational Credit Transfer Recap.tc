@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Search Data Report BI-FAST Informational Credit Transfer Recap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f64924c-1519-4e53-a3ae-3e09c173f75e</testCaseGuid>
+</TestCaseEntity>

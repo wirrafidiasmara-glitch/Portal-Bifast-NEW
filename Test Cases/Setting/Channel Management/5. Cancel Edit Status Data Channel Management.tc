@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Cancel Edit Status Data Channel Management</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0198bb5e-c5a3-44af-9921-051733b32bd9</testCaseGuid>
+</TestCaseEntity>

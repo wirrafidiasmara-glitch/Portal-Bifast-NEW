@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Download File Data Report BI-FAST Informational Credit Transfer Recap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ab7d0f8-2935-4a0b-8057-fb8bb23792e8</testCaseGuid>
+</TestCaseEntity>

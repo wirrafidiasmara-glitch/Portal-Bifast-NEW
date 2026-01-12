@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Generate Report Transaction Credit Transfer (CSV)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f3ec4011-6fe6-4e7f-b892-9c3a2e0623a9</testCaseGuid>
+</TestCaseEntity>

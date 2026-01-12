@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_View</name>
+   <tag></tag>
+   <elementGuidId>b809bf59-0a68-446f-ac91-f805bf3817b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2196985156-33.p-dialog-content.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Bank Identifier Code : BMRIIDJA - PT Bank Inti Indonesia Tbk.Bank Account Type :&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6813ea4d-0ac3-41ee-8b81-abf57c7a8a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2196985156-33 p-dialog-content ng-star-inserted</value>
+      <webElementGuid>fffadb67-4122-40dd-878c-c3bdb8d4b212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>c9b3adb9-411c-4d47-8e78-7bb09ecd1aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank Identifier Code :  BMRIIDJA - PT Bank Inti Indonesia Tbk.Bank Account Type :  TEST9Bank Description :  TEST9BI Account Type :  SVGSBI Description :  TEST9Created Date : 30/09/2025 22:06Created By :  User Bifast 05Updated Date : 12/12/2025 09:24Updated By :  -</value>
+      <webElementGuid>73564319-f9c4-47ce-b448-258399de1631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/div[@class=&quot;container max-w-full&quot;]/div[@class=&quot;content transition-all duration-300&quot;]/app-account-type[@class=&quot;ng-star-inserted&quot;]/p-dialog[@class=&quot;ng-tns-c2196985156-33 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-33 p-dialog-mask ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c2196985156-33 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2196985156-33 p-dialog-content ng-star-inserted&quot;]</value>
+      <webElementGuid>eecdfc34-89fb-476c-b845-4b6af19da296</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Data'])[1]/following::div[2]</value>
+      <webElementGuid>b34850ae-b1b2-4c39-ad97-0b49889ebfe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dialog[2]/div/div/div[3]</value>
+      <webElementGuid>68495488-2b5e-4397-8b66-b321f4078699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bank Identifier Code :  BMRIIDJA - PT Bank Inti Indonesia Tbk.Bank Account Type :  TEST9Bank Description :  TEST9BI Account Type :  SVGSBI Description :  TEST9Created Date : 30/09/2025 22:06Created By :  User Bifast 05Updated Date : 12/12/2025 09:24Updated By :  -' or . = 'Bank Identifier Code :  BMRIIDJA - PT Bank Inti Indonesia Tbk.Bank Account Type :  TEST9Bank Description :  TEST9BI Account Type :  SVGSBI Description :  TEST9Created Date : 30/09/2025 22:06Created By :  User Bifast 05Updated Date : 12/12/2025 09:24Updated By :  -')]</value>
+      <webElementGuid>7ed77646-2b54-40a9-9efa-a61063f205a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

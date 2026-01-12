@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Filter Data Monitoring History Recon File Status Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46ecdecc-0515-41f7-955d-06a6ddde23a3</testCaseGuid>
+</TestCaseEntity>

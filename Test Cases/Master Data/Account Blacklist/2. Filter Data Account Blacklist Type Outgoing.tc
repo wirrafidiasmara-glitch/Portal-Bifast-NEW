@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Filter Data Account Blacklist Type Outgoing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d463d394-fe70-4068-85da-e247a2d3a4d5</testCaseGuid>
+</TestCaseEntity>

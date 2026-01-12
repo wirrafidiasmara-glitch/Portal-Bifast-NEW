@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>notifikasi Success Success To Submit Data</name>
+   <tag></tag>
+   <elementGuidId>f2c187c5-4d6a-434d-a1ad-2551f32a1019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c2572556178-28.p-toast-message-content.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9bbecc11-bc56-4bd5-a66b-3a16086daa45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c2572556178-28 p-toast-message-content ng-star-inserted</value>
+      <webElementGuid>f14d7fe2-84aa-402a-9be8-40bffc2a27ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>fce78249-a059-46c8-a1e2-d68955f9a569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Success Success To Submit Data</value>
+      <webElementGuid>bfe7d179-e64b-4d79-8919-c72eec850f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-sidebarlayoutrefactor[1]/p-toast[@class=&quot;ng-tns-c757183554-1&quot;]/div[@class=&quot;p-toast p-component p-toast-top-right&quot;]/p-toastitem[@class=&quot;ng-tns-c2572556178-28 ng-trigger ng-trigger-toastAnimation ng-tns-c757183554-1 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2572556178-28 ng-trigger ng-trigger-messageState p-toast-message p-toast-message-success&quot;]/div[@class=&quot;ng-tns-c2572556178-28 p-toast-message-content ng-star-inserted&quot;]</value>
+      <webElementGuid>f70f6641-f838-4b64-bd68-112c3ea6e281</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>a0e6eda5-2c65-42d6-a590-8bc3c4f85f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Success Success To Submit Data' or . = ' Success Success To Submit Data')]</value>
+      <webElementGuid>d82aaab4-701c-46fa-b671-73150a54759b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

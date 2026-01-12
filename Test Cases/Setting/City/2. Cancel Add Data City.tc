@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Cancel Add Data City</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8d57bee-171f-45ae-8f8f-42d82ae2c6cf</testCaseGuid>
+</TestCaseEntity>
