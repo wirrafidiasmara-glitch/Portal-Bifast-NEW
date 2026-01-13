@@ -13,15 +13,19 @@
          <key>XPATH</key>
          <value>//p-accordion-header[@id='pn_id_201_accordionheader_activePanelValue']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'pn_id_201_accordionheader_activePanelValue' and (text() = 'Show Advance Filter' or . = 'Show Advance Filter')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
          <value>internal:role=button[name=&quot;Show Advance Filter&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p-accordion-header</value>
-      <webElementGuid>d649efe4-fdf9-45b1-a8fb-b1b92144b007</webElementGuid>
+      <webElementGuid>d0de08da-c5ce-4968-b36b-bb852a9ad74f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-ripple p-accordionheader</value>
-      <webElementGuid>dfad8d01-aeae-401f-901d-1f8baf2e6a91</webElementGuid>
+      <webElementGuid>e53dec2b-8991-4da5-9eac-6cb503b438d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pn_id_201_accordionheader_activePanelValue</value>
-      <webElementGuid>f0dab82d-270c-4e46-b122-c3abf4d194b9</webElementGuid>
+      <webElementGuid>813ceef1-06c1-4e97-8617-36558649f355</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e05a4075-8fed-4504-92a0-de716e274812</webElementGuid>
+      <webElementGuid>cda67e28-86f9-467d-937e-8a4cea540e50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>pn_id_201_accordioncontent_activePanelValue</value>
-      <webElementGuid>0b85d99d-e387-44bc-af1e-a33c0391fe3b</webElementGuid>
+      <webElementGuid>9c27bb52-5287-42fb-8673-f3feaefad9b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>db43b0ba-0a6e-4f03-99fd-913f994d96fe</webElementGuid>
+      <webElementGuid>7dc9b30f-c83f-41be-9275-0caa61f9f4a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>93de4f54-5fe8-45d5-8d8d-24797767b90a</webElementGuid>
+      <webElementGuid>af36459d-f765-4732-9ee4-143a31069fc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>260599ab-0911-4856-96c6-118c0488ec5b</webElementGuid>
+      <webElementGuid>fd66e4fc-228d-4e30-81f9-c3e55d40df01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>data-p-active</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e15ff1e5-ec4c-4884-9663-57d267eaf1ca</webElementGuid>
+      <webElementGuid>420d470a-20ca-4597-b789-a595f769c105</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>data-p-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6f53752c-6a34-461a-b242-d166023d6944</webElementGuid>
+      <webElementGuid>14b33a24-7094-4b6a-9e87-4009a01f586a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>accordionheader</value>
-      <webElementGuid>46446825-b373-4549-96e1-4e3ce9245826</webElementGuid>
+      <webElementGuid>08a22ea0-d5cc-4272-9668-e3dfdd7e7eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -117,7 +121,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Show Advance Filter</value>
-      <webElementGuid>7f2d611a-52e9-4f07-a159-e7d25a7c5726</webElementGuid>
+      <webElementGuid>60873fec-fe04-4598-86bd-e852db19a8c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +129,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pn_id_201_accordionheader_activePanelValue&quot;)</value>
-      <webElementGuid>81478d17-7381-47c3-9d18-dfa5202ca393</webElementGuid>
+      <webElementGuid>4ea01b6a-6df7-49e0-a8fb-714be5e28505</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -133,7 +137,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p-accordion-header[@id='pn_id_201_accordionheader_activePanelValue']</value>
-      <webElementGuid>3e566b41-ff95-421e-a368-664e55185fc1</webElementGuid>
+      <webElementGuid>0df8f2b9-7f13-44c1-93e3-3e78af3e80a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +145,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='saveForm']/div/div[19]/p-accordion/p-accordion-panel/p-accordion-header</value>
-      <webElementGuid>043a99d8-2f50-4d2e-8260-a08e0daf4ee7</webElementGuid>
+      <webElementGuid>2f1bb205-335d-4276-94b0-86375c6bd71c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +153,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KOMI Ref'])[1]/following::p-accordion-header[1]</value>
-      <webElementGuid>49dcd4c1-735c-40b8-a3c4-4208cdc670ca</webElementGuid>
+      <webElementGuid>c9a78b0e-68ff-4e47-8aee-1b78070afb4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +161,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BI-Fast ID'])[1]/following::p-accordion-header[1]</value>
-      <webElementGuid>b7d0acff-da37-449c-9b2e-80b12aeb6ab7</webElementGuid>
+      <webElementGuid>fe09e20c-5f31-4322-803c-2cbcc52720eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +169,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Data'])[2]/preceding::p-accordion-header[1]</value>
-      <webElementGuid>c56ca917-92c6-4c5b-a0e1-a7364d79d0a9</webElementGuid>
+      <webElementGuid>0add185b-1543-4404-8788-5a4e4249aded</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +177,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Transfer'])[4]/preceding::p-accordion-header[1]</value>
-      <webElementGuid>3ff278fd-4167-47f1-aef6-20b7033dbf12</webElementGuid>
+      <webElementGuid>d5b8e8d0-bbd9-4d57-a50e-335c41538c6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +185,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Show Advance Filter']/parent::*</value>
-      <webElementGuid>50cfd827-b932-4355-83fe-9c95f105ed47</webElementGuid>
+      <webElementGuid>8d1432da-3b58-4e32-be70-46dc7adb2a53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,7 +193,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p-accordion-header</value>
-      <webElementGuid>52692189-3e05-41da-a92c-adaf6e8ca7fe</webElementGuid>
+      <webElementGuid>864e1e86-8d6d-4c1b-8380-8df54bea1356</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -197,6 +201,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p-accordion-header[@id = 'pn_id_201_accordionheader_activePanelValue' and (text() = 'Show Advance Filter' or . = 'Show Advance Filter')]</value>
-      <webElementGuid>c6db2d55-7d55-4b89-9b15-55d0ff955f16</webElementGuid>
+      <webElementGuid>f007ccc9-f096-4db1-961b-60c84623d6e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

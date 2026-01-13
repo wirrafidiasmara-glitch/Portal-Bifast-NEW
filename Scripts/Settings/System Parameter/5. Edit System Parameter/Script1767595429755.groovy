@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('User Profile/Sign In'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Menu/Settings/Settings'))
 
 WebUI.click(findTestObject('Menu/Settings/span_System Parameter'))

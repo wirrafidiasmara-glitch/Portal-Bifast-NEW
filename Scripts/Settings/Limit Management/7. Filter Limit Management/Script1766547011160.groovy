@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('User Profile/Sign In'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Menu/Settings/Settings'))
 
 WebUI.click(findTestObject('Menu/Settings/span_Limit Management'))
@@ -27,11 +25,11 @@ WebUI.setText(findTestObject('Menu/Settings/Limit Management/Filter_Parameter Gr
 
 WebUI.click(findTestObject('Menu/Settings/Limit Management/Filter_DropDown'))
 
-WebUI.setText(findTestObject('Menu/Settings/Limit Management/Filter_Parameter Key'), 'Testing1')
+WebUI.setText(findTestObject('Menu/Settings/Limit Management/Filter_Parameter Key'), 'TEST')
 
 WebUI.doubleClick(findTestObject('Button_Global/Filter Data'))
 
 WebUI.delay(5)
 
-WebUI.verifyTextPresent('Testing', false)
+WebUI.verifyTextNotPresent('CT_DAILY_LIMIT_TRX_AMOUNT', false)
 

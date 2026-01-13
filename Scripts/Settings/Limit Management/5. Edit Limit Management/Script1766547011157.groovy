@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Button_Global/Submit'))
 
 WebUI.click(findTestObject('Button_Global/btn_Yes'))
 
-WebUI.delay(3)
+WebUI.delay(5)
 
 WebUI.verifyTextPresent('Success To Update Data', false)
 

@@ -17,13 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('User Profile/Sign In'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Menu/Settings/Settings'))
 
 WebUI.click(findTestObject('Menu/Settings/span_Limit Management'))
 
-WebUI.setText(findTestObject('Button_Global/Search'), 'RFP_INIT_OUT_LIMIT_TRX_AMOUNT')
+WebUI.setText(findTestObject('Button_Global/Search'), 'CT_DAILY_LIMIT_TRX_AMOUNT')
 
 WebUI.click(findTestObject('Button_Global/View'))
 

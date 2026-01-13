@@ -7,11 +7,14 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//li[@id='pn_id_8_3_6']/div/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Limit Management' or . = 'Limit Management')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,7 +24,7 @@
          <value>internal:role=link[name=&quot;Limit Management&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b6dcdbec-77bd-43da-9c26-f87cac9c0fe5</webElementGuid>
+      <webElementGuid>a555a614-95fa-4872-b57f-d6a297547a8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ml-2 text-[#667085] transition-all duration-300</value>
-      <webElementGuid>d5d84ca1-487d-4353-af09-085c75fd19f9</webElementGuid>
+      <webElementGuid>ca78fdd8-185e-488b-8435-fc2deb26dd65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +48,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Limit Management</value>
-      <webElementGuid>6b375325-1f7f-4e15-b8cd-05b96771ebd3</webElementGuid>
+      <webElementGuid>2e87ba13-e175-4d6a-8505-3a0bf5f2a21a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pn_id_8_3_6&quot;)/div[@class=&quot;p-panelmenu-item-content ng-tns-c2533221881-8&quot;]/a[@class=&quot;flex align-items-center cursor-pointer text-[#667085] px-3 py-2 transition-all duration-300&quot;]/span[@class=&quot;ml-2 text-[#667085] transition-all duration-300&quot;]</value>
-      <webElementGuid>979a9a5e-48d2-45a4-90da-c260f0b80860</webElementGuid>
+      <webElementGuid>2d93d001-02fc-4442-b22c-129c7e6d0781</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='pn_id_8_3_6']/div/a/span[2]</value>
-      <webElementGuid>a37f0060-5f2a-44ca-9c9e-3af1cfa1d828</webElementGuid>
+      <webElementGuid>2493d15b-b4dd-49c2-b13e-5f142dd5a37b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Management'])[1]/following::span[2]</value>
-      <webElementGuid>8af806ba-7d22-4ed6-8190-944bdb36101e</webElementGuid>
+      <webElementGuid>72eeb7b1-b9ac-4d72-a004-479272279c62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='System Parameter'])[1]/following::span[4]</value>
-      <webElementGuid>9a994aa3-d1a9-4af7-8a13-c2fb4d582ea2</webElementGuid>
+      <webElementGuid>39e5e838-2c74-4746-899f-2317901d0c79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant Bank'])[1]/preceding::span[2]</value>
-      <webElementGuid>209ec51b-32af-4c6e-a1a5-1d0f50410864</webElementGuid>
+      <webElementGuid>d950d3c1-00e4-462d-944c-67b65aede8a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Response Code'])[1]/preceding::span[4]</value>
-      <webElementGuid>948d279a-6f54-4086-b204-ca880e8363f1</webElementGuid>
+      <webElementGuid>220667a2-e892-4594-86fe-76271fd4ca3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Limit Management']/parent::*</value>
-      <webElementGuid>21200fa8-5178-4e1f-bb0a-086bf888b995</webElementGuid>
+      <webElementGuid>f8ae6f1a-2405-4b4e-afce-9070897cac28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/p-panelmenulist/p-panelmenu-sub/ul/li[7]/div/a/span[2]</value>
-      <webElementGuid>c11891c1-a414-4951-878b-9052813e41d6</webElementGuid>
+      <webElementGuid>f8eb414d-e1e3-4416-a70c-4956d26dae60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +120,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Limit Management' or . = 'Limit Management')]</value>
-      <webElementGuid>f34221f0-62b2-45c2-a02a-e0fcc58a1c52</webElementGuid>
+      <webElementGuid>b51ed134-c348-4388-9da9-bd1a3197d109</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
